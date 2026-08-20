@@ -1,4 +1,6 @@
-# Retail Sales — Data Cleaning & Visualization
+
+
+ # Retail Sales — Data Cleaning & Visualization
 
 **By Vicky Harish Kumar Badmera**
 
@@ -53,19 +55,16 @@ retail-sales-project/
 │   └── cleaned_sales_data.csv      # output after cleaning
 ├── notebooks/
 │   └── data_cleaning_and_visualization.ipynb   # main analysis notebook
-├── visuals/                        # exported chart images
-│   ├── outliers_before.png
-│   ├── outliers_after.png
-│   ├── revenue_by_category.png
-│   ├── monthly_revenue_trend.png
-│   ├── orders_by_region.png
-│   ├── top_products.png
-│   ├── payment_methods.png
-│   ├── order_value_distribution.png
-│   ├── orders_by_weekday.png
-│   └── category_region_heatmap.png
-├── scripts/
-│   └── generate_raw_data.py        # generates the synthetic raw dataset
+├── outliers_before.png             # exported chart images
+├── outliers_after.png
+├── revenue_by_category.png
+├── monthly_revenue_trend.png
+├── orders_by_region.png
+├── top_products.png
+├── payment_methods.png
+├── order_value_distribution.png
+├── orders_by_weekday.png
+├── category_region_heatmap.png
 ├── requirements.txt
 └── README.md
 ```
@@ -83,16 +82,16 @@ jupyter notebook notebooks/data_cleaning_and_visualization.ipynb
 
 **Revenue by category**
 
-![Revenue by category](visuals/revenue_by_category.png)
+![Revenue by category](revenue_by_category.png)
 
 **Price outliers, before and after cleaning**
 
-![Outliers before](visuals/outliers_before.png)
-![Outliers after](visuals/outliers_after.png)
+![Outliers before](outliers_before.png)
+![Outliers after](outliers_after.png)
 
 **Monthly revenue trend**
 
-![Monthly revenue trend](visuals/monthly_revenue_trend.png)
+![Monthly revenue trend](monthly_revenue_trend.png)
 
 ## Key findings
 
