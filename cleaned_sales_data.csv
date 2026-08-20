@@ -1,0 +1,1190 @@
+OrderID,CustomerName,Product,Category,Quantity,Price,OrderDate,Region,PaymentMethod,TotalAmount,Month,Weekday
+1683,Meera Verma,Denim Jacket,Clothing,1.0,1393.95,2023-10-22,North,UPI,1393.95,2023-10,Sunday
+1746,Vivaan Johnson,LED Lamp,Home & Kitchen,1.0,1255.16,2023-12-25,Central,UPI,1255.16,2023-12,Monday
+1735,Riya Brown,Non-stick Pan,Home & Kitchen,2.0,3534.71,2023-12-06,East,Cash,7069.42,2023-12,Wednesday
+1326,Ishaan Brown,Storage Jars,Home & Kitchen,1.0,712.91,2023-08-20,East,Debit Card,712.91,2023-08,Sunday
+1731,Wei Smith,Storage Jars,Home & Kitchen,2.0,1817.91,2023-02-20,East,Net Banking,3635.82,2023-02,Monday
+2033,Kabir Das,Water Bottle,Sports,2.0,392.88,2023-06-28,North,Credit Card,785.76,2023-06,Wednesday
+1246,Fatima Brown,Wireless Mouse,Electronics,2.0,2009.41,2023-01-09,West,Credit Card,4018.82,2023-01,Monday
+1117,Aarav Sharma,Baseball Cap,Clothing,1.0,1569.19,2023-03-06,East,Debit Card,1569.19,2023-03,Monday
+1379,James Reddy,Dumbbell Set,Sports,1.0,1955.2,2023-11-23,South,Net Banking,1955.2,2023-11,Thursday
+1237,Vivaan Iyer,Dumbbell Set,Sports,3.0,368.69,2023-11-05,West,Net Banking,1106.07,2023-11,Sunday
+1837,Sara Wang,LED Lamp,Home & Kitchen,2.0,3525.0,2023-11-20,West,UPI,7050.0,2023-11,Monday
+1413,Ishaan Chen,Running Shoes,Clothing,3.0,1482.27,2023-11-21,West,Credit Card,4446.81,2023-11,Tuesday
+1495,Olivia Wang,Fiction Novel,Books,2.0,334.8,2023-10-23,Central,Debit Card,669.6,2023-10,Monday
+1997,Diya Johnson,Wool Sweater,Clothing,1.0,1642.5,2023-11-09,North,Net Banking,1642.5,2023-11,Thursday
+2158,Olivia Chen,Cotton T-Shirt,Clothing,1.0,2484.2,2023-10-07,West,Net Banking,2484.2,2023-10,Saturday
+1705,James Gupta,Resistance Bands,Sports,3.0,1859.72,2023-03-02,East,Credit Card,5579.16,2023-03,Thursday
+1296,Ananya Wang,Running Shoes,Clothing,2.0,605.42,2023-12-02,East,Credit Card,1210.84,2023-12,Saturday
+1144,Aditya Johnson,Wool Sweater,Clothing,1.0,1324.32,2023-05-21,West,UPI,1324.32,2023-05,Sunday
+1161,Kabir Sharma,Coffee Maker,Home & Kitchen,2.0,2377.22,2023-12-23,East,Cash,4754.44,2023-12,Saturday
+1704,Kabir Das,Wireless Mouse,Electronics,2.0,3032.51,2023-06-28,North,Cash,6065.02,2023-06,Wednesday
+2176,Meera Reddy,Cotton T-Shirt,Clothing,3.0,1699.41,2023-02-28,West,Cash,5098.23,2023-02,Tuesday
+1402,Ling Smith,Cook Book,Books,2.0,582.22,2023-01-15,East,Net Banking,1164.44,2023-01,Sunday
+1669,Aditya Sharma,Coffee Maker,Home & Kitchen,2.0,1118.35,2023-03-24,West,UPI,2236.7,2023-03,Friday
+1351,Ananya Sharma,Water Bottle,Sports,1.0,1714.62,2023-04-16,North,UPI,1714.62,2023-04,Sunday
+2096,James Wang,Kids Story Book,Books,3.0,345.22,2023-04-11,East,Debit Card,1035.66,2023-04,Tuesday
+1612,Aarav Reddy,Yoga Mat,Sports,4.0,1438.92,2023-02-26,Central,UPI,5755.68,2023-02,Sunday
+1155,Olivia Patel,Laptop Stand,Electronics,1.0,2885.56,2023-11-09,South,Cash,2885.56,2023-11,Thursday
+1344,Ananya Reddy,Coffee Maker,Home & Kitchen,1.0,2457.81,2023-07-20,North,Net Banking,2457.81,2023-07,Thursday
+1781,Vivaan Brown,LED Lamp,Home & Kitchen,1.0,1672.32,2023-09-20,North,Credit Card,1672.32,2023-09,Wednesday
+1998,Vivaan Iyer,Wool Sweater,Clothing,2.0,1953.03,2023-08-07,South,Debit Card,3906.06,2023-08,Monday
+1872,Riya Chen,Baseball Cap,Clothing,1.0,1992.47,2023-05-07,South,UPI,1992.47,2023-05,Sunday
+1785,Emma Brown,Non-stick Pan,Home & Kitchen,1.0,2645.89,2023-07-22,North,Credit Card,2645.89,2023-07,Saturday
+1301,Olivia Reddy,Wool Sweater,Clothing,1.0,671.66,2023-07-30,South,Debit Card,671.66,2023-07,Sunday
+1894,Sara Khan,Water Bottle,Sports,2.0,2000.84,2023-08-17,North,Debit Card,4001.68,2023-08,Thursday
+1940,Mohammed Smith,Water Bottle,Sports,1.0,1068.26,2023-11-23,South,Credit Card,1068.26,2023-11,Thursday
+1226,Ananya Chen,Storage Jars,Home & Kitchen,1.0,3197.73,2023-07-11,South,Cash,3197.73,2023-07,Tuesday
+1173,Aditya Nair,Non-stick Pan,Home & Kitchen,2.0,1834.62,2023-08-17,East,UPI,3669.24,2023-08,Thursday
+1482,James Nair,Wool Sweater,Clothing,1.0,839.77,2023-05-18,South,Net Banking,839.77,2023-05,Thursday
+1582,Olivia Das,Resistance Bands,Sports,2.0,1171.58,2023-10-16,South,Net Banking,2343.16,2023-10,Monday
+1352,Riya Iyer,Football,Sports,1.0,1175.66,2023-01-26,South,Credit Card,1175.66,2023-01,Thursday
+1955,Mohammed Reddy,Fiction Novel,Books,1.0,395.2,2023-12-23,East,UPI,395.2,2023-12,Saturday
+1502,Meera Reddy,Coffee Maker,Home & Kitchen,2.0,3542.61,2023-11-17,East,Cash,7085.22,2023-11,Friday
+1064,Vivaan Nair,Webcam,Electronics,3.0,2954.04,2023-12-05,Central,Cash,8862.12,2023-12,Tuesday
+1961,Aarav Verma,Self-Help Guide,Books,1.0,671.71,2023-03-04,North,Credit Card,671.71,2023-03,Saturday
+1293,Emma Wang,Cook Book,Books,1.0,625.05,2023-05-18,South,Unknown,625.05,2023-05,Thursday
+1089,Diya Iyer,Fiction Novel,Books,1.0,668.2,2023-05-28,Central,Debit Card,668.2,2023-05,Sunday
+1658,Diya Smith,Cutlery Set,Home & Kitchen,2.0,2028.35,2023-11-12,East,UPI,4056.7,2023-11,Sunday
+1339,Wei Gupta,LED Lamp,Home & Kitchen,1.0,803.34,2023-09-10,Central,Debit Card,803.34,2023-09,Sunday
+1916,Riya Chen,Water Bottle,Sports,2.0,2944.92,2023-06-19,North,Debit Card,5889.84,2023-06,Monday
+1416,Meera Iyer,Notebook Set,Books,1.0,318.45,2023-05-31,West,UPI,318.45,2023-05,Wednesday
+1842,Fatima Sharma,Wireless Mouse,Electronics,2.0,2422.92,2023-06-30,West,Credit Card,4845.84,2023-06,Friday
+1833,Noah Brown,USB-C Cable,Electronics,3.0,3476.47,2023-09-05,West,Credit Card,10429.41,2023-09,Tuesday
+1215,Ananya Sharma,Self-Help Guide,Books,1.0,413.19,2023-10-18,East,UPI,413.19,2023-10,Wednesday
+1899,Ananya Iyer,Kids Story Book,Books,1.0,687.24,2023-01-23,South,Net Banking,687.24,2023-01,Monday
+1668,Meera Verma,Kids Story Book,Books,2.0,881.09,2023-12-21,Central,Credit Card,1762.18,2023-12,Thursday
+1404,Ling Verma,Resistance Bands,Sports,3.0,1620.355,2023-09-04,West,Debit Card,4861.07,2023-09,Monday
+1695,Fatima Johnson,Self-Help Guide,Books,1.0,877.37,2023-10-27,North,UPI,877.37,2023-10,Friday
+1983,Aarav Reddy,Dumbbell Set,Sports,1.0,1822.65,2023-06-26,West,Net Banking,1822.65,2023-06,Monday
+2119,Ananya Nair,Bluetooth Speaker,Electronics,1.0,3176.91,2023-01-07,West,Debit Card,3176.91,2023-01,Saturday
+1513,Sara Chen,Cotton T-Shirt,Clothing,1.0,2377.39,2023-10-06,West,Credit Card,2377.39,2023-10,Friday
+1771,Ananya Smith,Resistance Bands,Sports,1.0,2199.88,2023-09-13,North,Debit Card,2199.88,2023-09,Wednesday
+1054,Aditya Smith,Denim Jacket,Clothing,2.0,1202.84,2023-10-05,West,UPI,2405.68,2023-10,Thursday
+2023,Ishaan Brown,Football,Sports,2.0,2615.38,2023-01-01,West,Debit Card,5230.76,2023-01,Sunday
+1939,Unknown,Cook Book,Books,1.0,592.76,2023-05-24,North,Net Banking,592.76,2023-05,Wednesday
+1018,Liam Patel,Running Shoes,Clothing,2.0,2424.39,2023-09-22,East,Cash,4848.78,2023-09,Friday
+1168,James Wang,LED Lamp,Home & Kitchen,1.0,565.61,2023-12-23,South,Cash,565.61,2023-12,Saturday
+1714,Vivaan Verma,LED Lamp,Home & Kitchen,4.0,417.78,2023-03-01,East,Cash,1671.12,2023-03,Wednesday
+1953,James Gupta,Fiction Novel,Books,1.0,709.3,2023-12-25,South,Debit Card,709.3,2023-12,Monday
+1561,Aditya Reddy,USB-C Cable,Electronics,4.0,3166.24,2023-09-15,West,Debit Card,12664.96,2023-09,Friday
+1776,Kabir Verma,Self-Help Guide,Books,2.0,863.55,2023-08-10,East,Cash,1727.1,2023-08,Thursday
+1657,Kabir Patel,Cotton T-Shirt,Clothing,2.0,1504.7,2023-04-01,West,Cash,3009.4,2023-04,Saturday
+1108,Kabir Verma,Football,Sports,1.0,2208.49,2023-08-01,East,UPI,2208.49,2023-08,Tuesday
+1628,Sophia Iyer,Kids Story Book,Books,1.0,664.17,2023-04-30,West,Net Banking,664.17,2023-04,Sunday
+1836,Noah Wang,Wireless Mouse,Electronics,3.0,1641.87,2023-12-01,Central,UPI,4925.61,2023-12,Friday
+1649,Ananya Wang,Notebook Set,Books,1.0,275.61,2023-02-24,Central,Credit Card,275.61,2023-02,Friday
+1841,Aarav Das,Water Bottle,Sports,5.0,1201.77,2023-07-31,North,Debit Card,6008.85,2023-07,Monday
+1921,Ling Reddy,Notebook Set,Books,1.0,429.13,2023-09-04,West,Debit Card,429.13,2023-09,Monday
+1519,Vivaan Nair,Non-stick Pan,Home & Kitchen,2.0,1623.55,2023-02-24,South,Net Banking,3247.1,2023-02,Friday
+1632,Aditya Sharma,Wireless Mouse,Electronics,1.0,1431.09,2023-09-26,West,Credit Card,1431.09,2023-09,Tuesday
+1003,Meera Johnson,Water Bottle,Sports,1.0,679.05,2023-01-04,Central,UPI,679.05,2023-01,Wednesday
+1373,Ananya Lee,Cook Book,Books,3.0,324.16,2023-05-10,North,Debit Card,972.48,2023-05,Wednesday
+2024,Olivia Patel,Cook Book,Books,2.0,200.75,2023-12-17,East,Debit Card,401.5,2023-12,Sunday
+1087,Liam Wang,Self-Help Guide,Books,1.0,534.07,2023-08-21,Central,Credit Card,534.07,2023-08,Monday
+1647,Fatima Gupta,Water Bottle,Sports,2.0,1810.74,2023-02-06,Central,Debit Card,3621.48,2023-02,Monday
+1854,Noah Lee,Fiction Novel,Books,1.0,630.62,2023-02-01,North,Credit Card,630.62,2023-02,Wednesday
+1214,Mohammed Johnson,Notebook Set,Books,3.0,481.15,2023-08-28,Unknown,Net Banking,1443.45,2023-08,Monday
+2094,Diya Johnson,USB-C Cable,Electronics,2.0,3113.61,2023-04-30,Central,UPI,6227.22,2023-04,Sunday
+1429,James Nair,Denim Jacket,Clothing,1.0,380.41,2023-04-22,East,UPI,380.41,2023-04,Saturday
+1798,Ananya Wang,Coffee Maker,Home & Kitchen,10.0,3007.62,2023-02-02,Central,Credit Card,30076.2,2023-02,Thursday
+1880,Aditya Chen,Resistance Bands,Sports,1.0,551.77,2023-02-20,East,Debit Card,551.77,2023-02,Monday
+1066,Emma Wang,Kids Story Book,Books,1.0,463.06,2023-06-15,Central,UPI,463.06,2023-06,Thursday
+1777,Ishaan Wang,Running Shoes,Clothing,3.0,2102.22,2023-04-13,East,Net Banking,6306.66,2023-04,Thursday
+1267,Riya Khan,Cook Book,Books,1.0,897.48,2023-08-05,East,Debit Card,897.48,2023-08,Saturday
+1698,Sara Patel,Water Bottle,Sports,2.0,1176.76,2023-07-11,West,Credit Card,2353.52,2023-07,Tuesday
+1654,Sara Brown,Denim Jacket,Clothing,2.0,1870.99,2023-05-03,West,Cash,3741.98,2023-05,Wednesday
+1703,Diya Gupta,Cotton T-Shirt,Clothing,1.0,1760.37,2023-04-07,Central,Debit Card,1760.37,2023-04,Friday
+1437,Ishaan Iyer,LED Lamp,Home & Kitchen,1.0,2718.4,2023-02-14,East,Net Banking,2718.4,2023-02,Tuesday
+1713,Ishaan Chen,Wool Sweater,Clothing,4.0,2470.59,2023-08-27,East,Credit Card,9882.36,2023-08,Sunday
+1982,Aarav Smith,Water Bottle,Sports,1.0,2559.46,2023-09-03,Central,Unknown,2559.46,2023-09,Sunday
+1759,Liam Gupta,Storage Jars,Home & Kitchen,3.0,2730.91,2023-11-04,West,Debit Card,8192.73,2023-11,Saturday
+1981,Aditya Verma,Non-stick Pan,Home & Kitchen,1.0,826.01,2023-03-26,South,Credit Card,826.01,2023-03,Sunday
+1639,Aarav Das,Storage Jars,Home & Kitchen,5.0,1271.36,2023-12-01,West,Debit Card,6356.8,2023-12,Friday
+1254,Olivia Sharma,Webcam,Electronics,1.0,3232.78,2023-04-29,North,Cash,3232.78,2023-04,Saturday
+1130,Ling Lee,Notebook Set,Books,1.0,577.55,2023-11-08,Central,Credit Card,577.55,2023-11,Wednesday
+1779,Noah Patel,Football,Sports,1.0,1930.2,2023-09-11,South,Debit Card,1930.2,2023-09,Monday
+1588,Riya Lee,Webcam,Electronics,1.0,2402.02,2023-10-02,East,Net Banking,2402.02,2023-10,Monday
+2015,Ling Brown,Self-Help Guide,Books,2.0,342.4,2023-04-23,South,Cash,684.8,2023-04,Sunday
+1125,Diya Smith,Webcam,Electronics,3.0,3390.86,2023-07-31,West,Debit Card,10172.58,2023-07,Monday
+1308,Emma Reddy,Water Bottle,Sports,3.0,2652.34,2023-11-24,West,Credit Card,7957.02,2023-11,Friday
+1208,Vivaan Iyer,Running Shoes,Clothing,1.0,1690.04,2023-08-15,North,UPI,1690.04,2023-08,Tuesday
+1358,Meera Johnson,Notebook Set,Books,3.0,411.65,2023-07-22,East,Credit Card,1234.95,2023-07,Saturday
+1822,Aditya Wang,Football,Sports,2.0,1682.63,2023-09-04,North,Cash,3365.26,2023-09,Monday
+1620,Wei Iyer,Webcam,Electronics,1.0,3404.58,2023-06-25,Central,Credit Card,3404.58,2023-06,Sunday
+1987,Ling Wang,Laptop Stand,Electronics,1.0,1319.21,2023-07-02,West,Credit Card,1319.21,2023-07,Sunday
+1702,Kabir Sharma,Football,Sports,2.0,350.85,2023-05-25,South,Net Banking,701.7,2023-05,Thursday
+1978,Aarav Patel,Running Shoes,Clothing,4.0,2496.36,2023-12-03,Central,Debit Card,9985.44,2023-12,Sunday
+1235,Riya Wang,Denim Jacket,Clothing,4.0,791.91,2023-01-30,South,Cash,3167.64,2023-01,Monday
+1533,Olivia Smith,Football,Sports,2.0,1408.73,2023-11-08,West,UPI,2817.46,2023-11,Wednesday
+1734,Ishaan Lee,Webcam,Electronics,1.0,2009.41,2023-02-04,East,UPI,2009.41,2023-02,Saturday
+1258,Kabir Verma,Non-stick Pan,Home & Kitchen,1.0,562.79,2023-08-18,South,Cash,562.79,2023-08,Friday
+1147,Kabir Sharma,Notebook Set,Books,1.0,766.95,2023-06-25,West,Credit Card,766.95,2023-06,Sunday
+1655,Aditya Patel,Notebook Set,Books,2.0,404.59,2023-08-03,East,UPI,809.18,2023-08,Thursday
+1390,Mohammed Gupta,Webcam,Electronics,2.0,2660.11,2023-12-31,North,UPI,5320.22,2023-12,Sunday
+1145,Noah Sharma,Storage Jars,Home & Kitchen,1.0,1431.55,2023-05-27,North,UPI,1431.55,2023-05,Saturday
+1496,Sophia Chen,LED Lamp,Home & Kitchen,2.0,3277.9,2023-07-15,West,Credit Card,6555.8,2023-07,Saturday
+1026,Kabir Khan,Water Bottle,Sports,2.0,2916.36,2023-01-30,East,Debit Card,5832.72,2023-01,Monday
+1154,Ling Smith,Dumbbell Set,Sports,1.0,1669.83,2023-04-03,South,Debit Card,1669.83,2023-04,Monday
+1523,Noah Sharma,Football,Sports,2.0,2686.44,2023-04-05,Central,Cash,5372.88,2023-04,Wednesday
+1431,Liam Iyer,Fiction Novel,Books,1.0,731.65,2023-01-13,Central,UPI,731.65,2023-01,Friday
+1580,Sara Nair,Cotton T-Shirt,Clothing,1.0,2218.06,2023-09-26,Central,Cash,2218.06,2023-09,Tuesday
+1707,Vivaan Khan,Kids Story Book,Books,1.0,352.31,2023-12-04,North,Credit Card,352.31,2023-12,Monday
+1616,Ling Gupta,Water Bottle,Sports,1.0,2708.77,2023-08-06,West,Net Banking,2708.77,2023-08,Sunday
+1977,Ananya Nair,Storage Jars,Home & Kitchen,2.0,2553.61,2023-11-01,Central,Net Banking,5107.22,2023-11,Wednesday
+1334,Kabir Smith,Storage Jars,Home & Kitchen,1.0,1285.45,2023-05-08,South,Net Banking,1285.45,2023-05,Monday
+1992,Kabir Smith,Non-stick Pan,Home & Kitchen,1.0,2049.47,2023-01-17,West,UPI,2049.47,2023-01,Tuesday
+1993,Emma Johnson,Non-stick Pan,Home & Kitchen,1.0,880.53,2023-12-16,Central,Cash,880.53,2023-12,Saturday
+1288,Diya Chen,Denim Jacket,Clothing,4.0,2197.2,2023-06-29,North,Net Banking,8788.8,2023-06,Thursday
+1589,Aarav Nair,Running Shoes,Clothing,1.0,2015.66,2023-03-26,West,Net Banking,2015.66,2023-03,Sunday
+2111,Meera Sharma,Wireless Mouse,Electronics,1.0,2611.06,2023-05-17,West,Debit Card,2611.06,2023-05,Wednesday
+1949,Vivaan Lee,USB-C Cable,Electronics,1.0,2347.96,2023-07-18,Central,Debit Card,2347.96,2023-07,Tuesday
+1726,Vivaan Smith,Baseball Cap,Clothing,2.0,1393.78,2023-10-30,East,Cash,2787.56,2023-10,Monday
+1102,Liam Lee,Webcam,Electronics,3.0,984.89,2023-10-26,South,Cash,2954.67,2023-10,Thursday
+1479,Sophia Chen,Notebook Set,Books,1.0,539.19,2023-08-23,Unknown,UPI,539.19,2023-08,Wednesday
+1681,Riya Gupta,Dumbbell Set,Sports,1.0,2759.0,2023-09-05,East,Debit Card,2759.0,2023-09,Tuesday
+1302,Ishaan Lee,Bluetooth Speaker,Electronics,1.0,1031.03,2023-08-08,West,UPI,1031.03,2023-08,Tuesday
+1611,Wei Sharma,Non-stick Pan,Home & Kitchen,1.0,3823.11,2023-07-26,Central,Net Banking,3823.11,2023-07,Wednesday
+1581,Mohammed Verma,Webcam,Electronics,1.0,2977.45,2023-12-28,West,Net Banking,2977.45,2023-12,Thursday
+1924,Mohammed Reddy,Wireless Mouse,Electronics,1.0,864.5,2023-07-27,East,Cash,864.5,2023-07,Thursday
+1516,Sara Johnson,Yoga Mat,Sports,1.0,0.0,2023-07-04,East,Debit Card,0.0,2023-07,Tuesday
+2160,Noah Smith,Cotton T-Shirt,Clothing,1.0,1228.02,2023-10-19,West,Credit Card,1228.02,2023-10,Thursday
+2194,Liam Chen,Bluetooth Speaker,Electronics,2.0,1613.52,2023-04-25,North,Credit Card,3227.04,2023-04,Tuesday
+1273,Ishaan Johnson,Storage Jars,Home & Kitchen,1.0,2625.26,2023-02-04,West,UPI,2625.26,2023-02,Saturday
+1897,Ishaan Smith,Baseball Cap,Clothing,2.0,1426.89,2023-03-22,North,Debit Card,2853.78,2023-03,Wednesday
+2008,Diya Reddy,Yoga Mat,Sports,1.0,1714.16,2023-12-17,West,Cash,1714.16,2023-12,Sunday
+1305,Sophia Patel,Bluetooth Speaker,Electronics,2.0,2010.25,2023-09-28,Central,Credit Card,4020.5,2023-09,Thursday
+1320,Meera Brown,Fiction Novel,Books,1.0,351.93,2023-06-21,East,Credit Card,351.93,2023-06,Wednesday
+1686,James Patel,Resistance Bands,Sports,1.0,2921.34,2023-05-29,East,Cash,2921.34,2023-05,Monday
+1778,Emma Verma,Resistance Bands,Sports,1.0,877.22,2023-11-11,West,UPI,877.22,2023-11,Saturday
+1049,Liam Johnson,Dumbbell Set,Sports,1.0,1687.52,2023-03-17,West,Debit Card,1687.52,2023-03,Friday
+1194,Noah Khan,Notebook Set,Books,1.0,361.53,2023-06-30,South,Net Banking,361.53,2023-06,Friday
+1475,Aditya Iyer,Bluetooth Speaker,Electronics,1.0,3121.67,2023-12-09,West,UPI,3121.67,2023-12,Saturday
+1945,Meera Reddy,Self-Help Guide,Books,5.0,694.85,2023-12-10,East,Cash,3474.25,2023-12,Sunday
+1477,Liam Lee,Wool Sweater,Clothing,3.0,685.82,2023-03-31,North,UPI,2057.46,2023-03,Friday
+2162,Ananya Iyer,Non-stick Pan,Home & Kitchen,1.0,2588.46,2023-10-22,North,Net Banking,2588.46,2023-10,Sunday
+2109,Ishaan Das,Baseball Cap,Clothing,1.0,2124.67,2023-07-06,South,Debit Card,2124.67,2023-07,Thursday
+1530,Fatima Smith,Bluetooth Speaker,Electronics,2.0,1939.63,2023-09-27,South,Debit Card,3879.26,2023-09,Wednesday
+1626,Kabir Wang,Baseball Cap,Clothing,1.0,2052.38,2023-07-16,West,Cash,2052.38,2023-07,Sunday
+2075,Meera Brown,Water Bottle,Sports,2.0,1609.08,2023-11-12,West,Debit Card,3218.16,2023-11,Sunday
+1398,Olivia Chen,USB-C Cable,Electronics,3.0,554.33,2023-03-01,East,Cash,1662.99,2023-03,Wednesday
+1467,Ishaan Gupta,Self-Help Guide,Books,1.0,888.3,2023-05-10,West,Net Banking,888.3,2023-05,Wednesday
+1031,Sara Gupta,Baseball Cap,Clothing,1.0,1155.09,2023-05-06,East,Credit Card,1155.09,2023-05,Saturday
+1004,Kabir Khan,Cutlery Set,Home & Kitchen,3.0,609.1,2023-02-17,East,Credit Card,1827.3,2023-02,Friday
+1178,Sophia Brown,Bluetooth Speaker,Electronics,2.0,711.71,2023-03-02,West,Net Banking,1423.42,2023-03,Thursday
+1803,Aarav Khan,Kids Story Book,Books,1.0,202.07,2023-05-27,West,UPI,202.07,2023-05,Saturday
+1137,Liam Brown,Denim Jacket,Clothing,3.0,2207.56,2023-10-14,Unknown,Net Banking,6622.68,2023-10,Saturday
+2174,Sara Nair,Baseball Cap,Clothing,1.0,1793.07,2023-02-23,Central,Net Banking,1793.07,2023-02,Thursday
+1730,Emma Lee,Laptop Stand,Electronics,2.0,1147.03,2023-05-17,Central,Cash,2294.06,2023-05,Wednesday
+2079,Noah Patel,Bluetooth Speaker,Electronics,1.0,925.92,2023-05-03,East,Unknown,925.92,2023-05,Wednesday
+2132,Wei Das,Wool Sweater,Clothing,1.0,2263.55,2023-04-23,North,UPI,2263.55,2023-04,Sunday
+1489,James Nair,Notebook Set,Books,1.0,596.31,2023-08-06,South,Cash,596.31,2023-08,Sunday
+1078,Riya Wang,Kids Story Book,Books,1.0,889.24,2023-06-06,Central,Cash,889.24,2023-06,Tuesday
+1023,Noah Gupta,Baseball Cap,Clothing,2.0,869.32,2023-05-23,West,Debit Card,1738.64,2023-05,Tuesday
+1566,Vivaan Das,Kids Story Book,Books,1.0,692.57,2023-10-03,South,Net Banking,692.57,2023-10,Tuesday
+1850,Emma Brown,USB-C Cable,Electronics,1.0,3389.35,2023-01-03,West,UPI,3389.35,2023-01,Tuesday
+1687,Ishaan Reddy,Self-Help Guide,Books,1.0,790.79,2023-03-13,West,Credit Card,790.79,2023-03,Monday
+2030,Sophia Reddy,Kids Story Book,Books,1.0,638.23,2023-11-22,West,Net Banking,638.23,2023-11,Wednesday
+1468,Liam Chen,Football,Sports,1.0,722.12,2023-10-10,South,Cash,722.12,2023-10,Tuesday
+1601,Noah Verma,Cotton T-Shirt,Clothing,1.0,1968.18,2023-12-17,Unknown,UPI,1968.18,2023-12,Sunday
+1871,Olivia Nair,Water Bottle,Sports,2.0,2525.73,2023-11-22,Central,Cash,5051.46,2023-11,Wednesday
+1255,James Sharma,Water Bottle,Sports,2.0,2861.95,2023-09-09,East,Cash,5723.9,2023-09,Saturday
+2145,Kabir Wang,Bluetooth Speaker,Electronics,1.0,1946.12,2023-09-19,South,Debit Card,1946.12,2023-09,Tuesday
+1397,Sara Patel,Wireless Mouse,Electronics,2.0,2017.67,2023-06-01,South,Cash,4035.34,2023-06,Thursday
+2031,Fatima Brown,Water Bottle,Sports,1.0,421.25,2023-10-02,West,Net Banking,421.25,2023-10,Monday
+1571,Ishaan Reddy,Wireless Mouse,Electronics,1.0,2974.04,2023-02-13,West,UPI,2974.04,2023-02,Monday
+1141,James Chen,Coffee Maker,Home & Kitchen,1.0,3604.02,2023-09-19,South,Credit Card,3604.02,2023-09,Tuesday
+1848,Sara Patel,Resistance Bands,Sports,1.0,1260.72,2023-01-02,Central,Cash,1260.72,2023-01,Monday
+1567,Diya Iyer,Yoga Mat,Sports,1.0,472.88,2023-06-05,West,Cash,472.88,2023-06,Monday
+1234,James Reddy,Notebook Set,Books,3.0,364.28,2023-03-18,West,Cash,1092.84,2023-03,Saturday
+1343,James Gupta,Kids Story Book,Books,1.0,847.03,2023-07-02,Central,Net Banking,847.03,2023-07,Sunday
+1492,Sophia Gupta,Wool Sweater,Clothing,1.0,534.52,2023-06-11,Central,Net Banking,534.52,2023-06,Sunday
+1881,Diya Patel,Running Shoes,Clothing,2.0,1299.63,2023-06-04,East,UPI,2599.26,2023-06,Sunday
+1354,Sophia Wang,Non-stick Pan,Home & Kitchen,2.0,1560.47,2023-07-23,North,UPI,3120.94,2023-07,Sunday
+1387,Meera Khan,Wireless Mouse,Electronics,1.0,882.47,2023-03-08,East,UPI,882.47,2023-03,Wednesday
+1224,Noah Patel,Webcam,Electronics,2.0,3458.0,2023-07-22,East,Credit Card,6916.0,2023-07,Saturday
+2021,Aditya Khan,Football,Sports,1.0,2589.19,2023-10-16,South,Cash,2589.19,2023-10,Monday
+2042,Emma Khan,USB-C Cable,Electronics,3.0,1891.79,2023-02-23,East,Credit Card,5675.37,2023-02,Thursday
+2022,Meera Sharma,Cook Book,Books,1.0,542.54,2023-11-18,Central,UPI,542.54,2023-11,Saturday
+1019,Unknown,Non-stick Pan,Home & Kitchen,1.0,1496.61,2023-04-23,South,Net Banking,1496.61,2023-04,Sunday
+1451,Vivaan Khan,Self-Help Guide,Books,1.0,305.91,2023-02-02,West,Debit Card,305.91,2023-02,Thursday
+1656,Ling Nair,Yoga Mat,Sports,3.0,470.32,2023-04-23,Central,Net Banking,1410.96,2023-04,Sunday
+2012,Kabir Iyer,Running Shoes,Clothing,1.0,2361.01,2023-04-18,North,Debit Card,2361.01,2023-04,Tuesday
+1501,Mohammed Chen,Laptop Stand,Electronics,1.0,1055.4,2023-05-15,North,Credit Card,1055.4,2023-05,Monday
+1526,Sophia Khan,Cotton T-Shirt,Clothing,1.0,2224.34,2023-10-20,North,Credit Card,2224.34,2023-10,Friday
+1270,Emma Verma,Self-Help Guide,Books,1.0,487.91,2023-05-13,North,Credit Card,487.91,2023-05,Saturday
+1768,Meera Gupta,Cotton T-Shirt,Clothing,1.0,1209.81,2023-05-14,North,Cash,1209.81,2023-05,Sunday
+2083,Diya Patel,Fiction Novel,Books,5.0,503.47,2023-06-10,West,Cash,2517.35,2023-06,Saturday
+1531,Ishaan Chen,Water Bottle,Sports,5.0,2652.61,2023-12-12,Central,UPI,13263.05,2023-12,Tuesday
+1572,Liam Brown,Dumbbell Set,Sports,1.0,2114.54,2023-03-29,West,Credit Card,2114.54,2023-03,Wednesday
+1690,James Lee,Wool Sweater,Clothing,1.0,1090.31,2023-01-29,Central,Net Banking,1090.31,2023-01,Sunday
+1263,James Wang,Laptop Stand,Electronics,1.0,3014.99,2023-06-18,Central,Cash,3014.99,2023-06,Sunday
+1820,Kabir Verma,Webcam,Electronics,3.0,3477.45,2023-07-11,East,UPI,10432.35,2023-07,Tuesday
+1629,Emma Sharma,Baseball Cap,Clothing,1.0,741.15,2023-07-15,East,Cash,741.15,2023-07,Saturday
+1100,Ananya Reddy,Laptop Stand,Electronics,2.0,3161.26,2023-01-24,East,Credit Card,6322.52,2023-01,Tuesday
+1225,Vivaan Smith,Yoga Mat,Sports,1.0,1284.71,2023-10-05,Unknown,Credit Card,1284.71,2023-10,Thursday
+1806,Ananya Smith,Storage Jars,Home & Kitchen,2.0,3568.28,2023-01-19,North,Cash,7136.56,2023-01,Thursday
+1958,Ananya Das,Kids Story Book,Books,2.0,486.46,2023-07-02,North,Credit Card,972.92,2023-07,Sunday
+1114,Liam Johnson,Dumbbell Set,Sports,1.0,2925.78,2023-08-03,Unknown,Net Banking,2925.78,2023-08,Thursday
+1721,Liam Lee,Bluetooth Speaker,Electronics,1.0,3409.74,2023-06-05,East,Debit Card,3409.74,2023-06,Monday
+1543,Liam Brown,Non-stick Pan,Home & Kitchen,1.0,3801.04,2023-03-11,West,Debit Card,3801.04,2023-03,Saturday
+2001,Aarav Sharma,Cotton T-Shirt,Clothing,1.0,875.75,2023-05-27,East,Debit Card,875.75,2023-05,Saturday
+1103,Aarav Das,Self-Help Guide,Books,1.0,604.82,2023-12-13,West,UPI,604.82,2023-12,Wednesday
+1971,Liam Patel,Cutlery Set,Home & Kitchen,1.0,610.78,2023-08-22,South,Cash,610.78,2023-08,Tuesday
+1617,Emma Lee,Denim Jacket,Clothing,1.0,768.83,2023-09-13,North,Net Banking,768.83,2023-09,Wednesday
+1378,Sophia Iyer,Cotton T-Shirt,Clothing,2.0,606.4,2023-07-27,East,Cash,1212.8,2023-07,Thursday
+1867,Olivia Sharma,Baseball Cap,Clothing,1.0,1459.49,2023-04-12,North,Debit Card,1459.49,2023-04,Wednesday
+1318,Aditya Brown,Cutlery Set,Home & Kitchen,1.0,785.82,2023-07-08,West,Credit Card,785.82,2023-07,Saturday
+2122,Ishaan Verma,Denim Jacket,Clothing,5.0,1582.18,2023-08-20,East,UPI,7910.9,2023-08,Sunday
+1438,Ananya Brown,Laptop Stand,Electronics,1.0,576.16,2023-07-20,South,Debit Card,576.16,2023-07,Thursday
+1708,Aditya Iyer,Non-stick Pan,Home & Kitchen,4.0,2312.21,2023-03-05,North,Credit Card,9248.84,2023-03,Sunday
+1743,Liam Wang,Non-stick Pan,Home & Kitchen,1.0,1568.51,2023-02-27,South,Debit Card,1568.51,2023-02,Monday
+1366,Meera Gupta,Fiction Novel,Books,2.0,534.07,2023-06-14,East,Cash,1068.14,2023-06,Wednesday
+1370,Meera Nair,Wireless Mouse,Electronics,1.0,1817.4,2023-08-17,West,Net Banking,1817.4,2023-08,Thursday
+1172,Mohammed Iyer,Self-Help Guide,Books,1.0,279.9,2023-02-10,North,Cash,279.9,2023-02,Friday
+1790,Unknown,Laptop Stand,Electronics,1.0,2321.28,2023-10-19,South,UPI,2321.28,2023-10,Thursday
+2180,James Reddy,Cotton T-Shirt,Clothing,1.0,1474.73,2023-08-07,Central,Cash,1474.73,2023-08,Monday
+1058,Aditya Patel,Yoga Mat,Sports,3.0,1991.86,2023-08-25,West,Debit Card,5975.58,2023-08,Friday
+1051,Fatima Lee,Notebook Set,Books,2.0,173.57,2023-11-10,East,Cash,347.14,2023-11,Friday
+1153,Kabir Gupta,Denim Jacket,Clothing,5.0,1897.4,2023-02-21,North,UPI,9487.0,2023-02,Tuesday
+1272,Ishaan Wang,Fiction Novel,Books,2.0,321.48,2023-06-09,South,UPI,642.96,2023-06,Friday
+1132,Mohammed Khan,Wireless Mouse,Electronics,1.0,920.25,2023-08-21,West,Cash,920.25,2023-08,Monday
+1528,Noah Chen,Fiction Novel,Books,1.0,898.45,2023-10-13,North,UPI,898.45,2023-10,Friday
+1017,Fatima Gupta,Wool Sweater,Clothing,4.0,443.11,2023-11-07,East,Net Banking,1772.44,2023-11,Tuesday
+1300,Kabir Smith,Cutlery Set,Home & Kitchen,1.0,1092.24,2023-02-05,South,Debit Card,1092.24,2023-02,Sunday
+1260,Fatima Das,Fiction Novel,Books,1.0,890.46,2023-09-24,South,Net Banking,890.46,2023-09,Sunday
+1737,Unknown,Wool Sweater,Clothing,1.0,2232.73,2023-08-11,Central,Net Banking,2232.73,2023-08,Friday
+2017,Ananya Khan,Cook Book,Books,5.0,497.95,2023-04-03,Central,Cash,2489.75,2023-04,Monday
+1159,Emma Verma,Dumbbell Set,Sports,1.0,1374.62,2023-06-28,South,Cash,1374.62,2023-06,Wednesday
+1802,Mohammed Johnson,Storage Jars,Home & Kitchen,1.0,1215.96,2023-11-28,North,Debit Card,1215.96,2023-11,Tuesday
+1021,Meera Chen,Water Bottle,Sports,1.0,585.61,2023-04-08,West,Cash,585.61,2023-04,Saturday
+1710,Mohammed Lee,Dumbbell Set,Sports,4.0,1493.55,2023-10-24,North,Credit Card,5974.2,2023-10,Tuesday
+1406,James Iyer,Coffee Maker,Home & Kitchen,2.0,3945.43,2023-04-25,North,Net Banking,7890.86,2023-04,Tuesday
+1384,Sophia Nair,Cotton T-Shirt,Clothing,3.0,1977.41,2023-11-21,South,UPI,5932.23,2023-11,Tuesday
+1696,Sara Iyer,Bluetooth Speaker,Electronics,1.0,1208.15,2023-12-01,West,Credit Card,1208.15,2023-12,Friday
+1295,Ishaan Das,Fiction Novel,Books,1.0,246.03,2023-08-22,South,Cash,246.03,2023-08,Tuesday
+1829,Liam Iyer,Football,Sports,1.0,1772.96,2023-02-20,North,Credit Card,1772.96,2023-02,Monday
+1815,Emma Wang,Bluetooth Speaker,Electronics,1.0,790.03,2023-02-17,West,Credit Card,790.03,2023-02,Friday
+1631,Noah Chen,Water Bottle,Sports,2.0,989.73,2023-04-10,South,Net Banking,1979.46,2023-04,Monday
+1641,Fatima Khan,Fiction Novel,Books,2.0,613.62,2023-12-19,North,Cash,1227.24,2023-12,Tuesday
+1682,Noah Gupta,Cutlery Set,Home & Kitchen,2.0,2642.68,2023-12-31,Central,Debit Card,5285.36,2023-12,Sunday
+1862,Meera Brown,Cotton T-Shirt,Clothing,1.0,967.21,2023-08-05,Central,Credit Card,967.21,2023-08,Saturday
+1454,Sara Smith,Webcam,Electronics,1.0,2952.33,2023-07-27,South,Net Banking,2952.33,2023-07,Thursday
+2171,Vivaan Gupta,Wireless Mouse,Electronics,1.0,2753.53,2023-05-25,West,Debit Card,2753.53,2023-05,Thursday
+1793,Aditya Iyer,LED Lamp,Home & Kitchen,1.0,3956.03,2023-03-01,West,Cash,3956.03,2023-03,Wednesday
+1421,Vivaan Reddy,Coffee Maker,Home & Kitchen,2.0,447.14,2023-10-05,East,Debit Card,894.28,2023-10,Thursday
+1306,Wei Smith,Wool Sweater,Clothing,2.0,386.49,2023-12-16,East,Net Banking,772.98,2023-12,Saturday
+1024,Fatima Wang,Wireless Mouse,Electronics,1.0,1435.13,2023-05-02,North,Credit Card,1435.13,2023-05,Tuesday
+1660,James Smith,Resistance Bands,Sports,1.0,474.48,2023-04-28,South,UPI,474.48,2023-04,Friday
+1189,Riya Johnson,Football,Sports,1.0,2573.41,2023-06-02,South,Cash,2573.41,2023-06,Friday
+1505,Emma Iyer,Cutlery Set,Home & Kitchen,1.0,1298.8,2023-01-06,South,UPI,1298.8,2023-01,Friday
+2144,Meera Wang,Cook Book,Books,1.0,878.65,2023-11-10,Central,UPI,878.65,2023-11,Friday
+2052,Aditya Gupta,Non-stick Pan,Home & Kitchen,2.0,968.64,2023-08-31,West,UPI,1937.28,2023-08,Thursday
+1008,Unknown,Baseball Cap,Clothing,1.0,1393.95,2023-05-19,West,Cash,1393.95,2023-05,Friday
+1855,Vivaan Das,Bluetooth Speaker,Electronics,2.0,2358.76,2023-06-04,West,Credit Card,4717.52,2023-06,Sunday
+1890,Vivaan Wang,Dumbbell Set,Sports,2.0,950.34,2023-01-14,Central,Cash,1900.68,2023-01,Saturday
+1859,Mohammed Iyer,Dumbbell Set,Sports,2.0,408.9,2023-09-04,East,Cash,817.8,2023-09,Monday
+1216,Mohammed Nair,Kids Story Book,Books,2.0,257.24,2023-12-09,North,Cash,514.48,2023-12,Saturday
+1110,Aditya Gupta,Laptop Stand,Electronics,2.0,2448.9,2023-10-13,South,Cash,4897.8,2023-10,Friday
+1220,Ling Nair,Wool Sweater,Clothing,1.0,1853.73,2023-08-30,West,Net Banking,1853.73,2023-08,Wednesday
+2071,Ling Das,Laptop Stand,Electronics,1.0,2957.19,2023-11-21,Central,Credit Card,2957.19,2023-11,Tuesday
+1801,Fatima Sharma,Yoga Mat,Sports,1.0,777.64,2023-03-27,Central,Credit Card,777.64,2023-03,Monday
+1204,Mohammed Chen,Wool Sweater,Clothing,1.0,1156.24,2023-02-01,Central,Cash,1156.24,2023-02,Wednesday
+1575,Wei Patel,Denim Jacket,Clothing,3.0,2171.28,2023-07-29,West,Cash,6513.84,2023-07,Saturday
+1409,Fatima Khan,LED Lamp,Home & Kitchen,1.0,2528.59,2023-07-06,West,UPI,2528.59,2023-07,Thursday
+1028,Meera Smith,Yoga Mat,Sports,3.0,1894.22,2023-05-07,North,Net Banking,5682.66,2023-05,Sunday
+1231,Noah Khan,Laptop Stand,Electronics,2.0,852.58,2023-01-29,Central,Debit Card,1705.16,2023-01,Sunday
+1597,Ling Brown,Wireless Mouse,Electronics,2.0,1537.65,2023-04-16,Central,Credit Card,3075.3,2023-04,Sunday
+1053,Meera Iyer,USB-C Cable,Electronics,1.0,3222.7,2023-10-04,East,UPI,3222.7,2023-10,Wednesday
+1426,Aarav Nair,Football,Sports,2.0,1620.355,2023-01-21,West,Debit Card,3240.71,2023-01,Saturday
+1644,Ishaan Patel,Storage Jars,Home & Kitchen,1.0,716.32,2023-02-13,East,Cash,716.32,2023-02,Monday
+2068,Emma Nair,Kids Story Book,Books,3.0,689.52,2023-08-07,East,Net Banking,2068.56,2023-08,Monday
+1075,Wei Iyer,Wireless Mouse,Electronics,1.0,654.44,2023-08-14,West,Cash,654.44,2023-08,Monday
+2029,Sara Gupta,Water Bottle,Sports,1.0,1521.31,2023-03-07,North,UPI,1521.31,2023-03,Tuesday
+1047,Mohammed Johnson,Cook Book,Books,1.0,720.59,2023-05-26,South,Credit Card,720.59,2023-05,Friday
+1197,Sara Wang,Notebook Set,Books,2.0,429.01,2023-03-02,Central,Net Banking,858.02,2023-03,Thursday
+1537,Meera Iyer,Dumbbell Set,Sports,1.0,365.76,2023-10-20,East,Credit Card,365.76,2023-10,Friday
+2076,Ananya Smith,Wool Sweater,Clothing,1.0,1037.46,2023-03-23,East,Net Banking,1037.46,2023-03,Thursday
+1127,Emma Verma,Wireless Mouse,Electronics,1.0,3053.41,2023-10-12,East,Debit Card,3053.41,2023-10,Thursday
+2065,Sara Brown,Laptop Stand,Electronics,1.0,3145.78,2023-03-06,North,Cash,3145.78,2023-03,Monday
+1858,Mohammed Nair,Laptop Stand,Electronics,5.0,674.49,2023-02-25,Central,Debit Card,3372.45,2023-02,Saturday
+1065,Emma Nair,Fiction Novel,Books,1.0,155.21,2023-08-11,West,Debit Card,155.21,2023-08,Friday
+1357,Wei Khan,Water Bottle,Sports,1.0,1546.83,2023-07-18,Central,Credit Card,1546.83,2023-07,Tuesday
+2124,Kabir Smith,Yoga Mat,Sports,2.0,425.01,2023-07-02,South,Debit Card,850.02,2023-07,Sunday
+1679,Olivia Smith,Wool Sweater,Clothing,1.0,2281.54,2023-05-30,West,Credit Card,2281.54,2023-05,Tuesday
+1938,Liam Lee,Storage Jars,Home & Kitchen,1.0,3038.09,2023-06-19,North,UPI,3038.09,2023-06,Monday
+1875,Wei Smith,Self-Help Guide,Books,1.0,720.22,2023-04-17,Central,Credit Card,720.22,2023-04,Monday
+1972,Diya Verma,Baseball Cap,Clothing,2.0,2026.77,2023-07-10,East,Debit Card,4053.54,2023-07,Monday
+2032,Wei Chen,Notebook Set,Books,1.0,754.8,2023-05-01,South,Credit Card,754.8,2023-05,Monday
+1361,Liam Brown,Wireless Mouse,Electronics,1.0,3315.02,2023-06-16,West,Net Banking,3315.02,2023-06,Friday
+2188,James Sharma,Notebook Set,Books,1.0,654.72,2023-02-01,Central,Debit Card,654.72,2023-02,Wednesday
+1063,Diya Verma,Kids Story Book,Books,1.0,320.95,2023-02-22,Central,Debit Card,320.95,2023-02,Wednesday
+1219,Riya Reddy,Notebook Set,Books,2.0,204.57,2023-07-08,North,UPI,409.14,2023-07,Saturday
+1717,Wei Verma,Kids Story Book,Books,2.0,516.63,2023-07-06,South,Credit Card,1033.26,2023-07,Thursday
+2184,Riya Lee,Wireless Mouse,Electronics,1.0,2009.41,2023-04-02,East,UPI,2009.41,2023-04,Sunday
+1954,Ananya Sharma,Self-Help Guide,Books,1.0,868.56,2023-06-22,Central,Cash,868.56,2023-06,Thursday
+1276,Aarav Reddy,Kids Story Book,Books,3.0,540.12,2023-05-23,South,Debit Card,1620.36,2023-05,Tuesday
+2140,Wei Johnson,USB-C Cable,Electronics,1.0,2402.31,2023-03-04,East,Credit Card,2402.31,2023-03,Saturday
+1962,Sophia Iyer,Resistance Bands,Sports,1.0,1953.87,2023-04-03,North,Net Banking,1953.87,2023-04,Monday
+1991,Noah Gupta,Laptop Stand,Electronics,2.0,1058.3,2023-08-11,South,UPI,2116.6,2023-08,Friday
+2099,James Patel,Yoga Mat,Sports,3.0,1515.99,2023-08-29,North,Credit Card,4547.97,2023-08,Tuesday
+1723,Emma Das,Wireless Mouse,Electronics,1.0,3104.43,2023-08-19,North,Cash,3104.43,2023-08,Saturday
+1236,Meera Iyer,Wool Sweater,Clothing,4.0,326.74,2023-11-28,South,UPI,1306.96,2023-11,Tuesday
+1913,Wei Reddy,Baseball Cap,Clothing,1.0,1716.59,2023-01-11,North,Debit Card,1716.59,2023-01,Wednesday
+1553,Meera Das,Wireless Mouse,Electronics,1.0,3484.72,2023-06-20,Unknown,UPI,3484.72,2023-06,Tuesday
+1579,Olivia Das,Cutlery Set,Home & Kitchen,3.0,970.98,2023-08-07,West,Credit Card,2912.94,2023-08,Monday
+1825,Sara Patel,Laptop Stand,Electronics,2.0,2846.08,2023-12-29,North,Debit Card,5692.16,2023-12,Friday
+1101,Kabir Khan,Storage Jars,Home & Kitchen,1.0,2711.31,2023-10-17,Central,Cash,2711.31,2023-10,Tuesday
+1473,Ling Sharma,Football,Sports,1.0,817.66,2023-08-13,South,Cash,817.66,2023-08,Sunday
+1183,Unknown,Notebook Set,Books,1.0,856.1,2023-02-07,West,Net Banking,856.1,2023-02,Tuesday
+1333,Meera Patel,Resistance Bands,Sports,1.0,529.9,2023-07-30,East,Cash,529.9,2023-07,Sunday
+1670,Ananya Chen,Wool Sweater,Clothing,1.0,458.84,2023-12-27,East,Cash,458.84,2023-12,Wednesday
+2200,Wei Johnson,Dumbbell Set,Sports,2.0,2026.01,2023-08-21,South,Debit Card,4052.02,2023-08,Monday
+1969,Ishaan Patel,Dumbbell Set,Sports,2.0,992.01,2023-01-19,North,Debit Card,1984.02,2023-01,Thursday
+1917,Ling Wang,Denim Jacket,Clothing,2.0,1581.33,2023-06-14,West,Net Banking,3162.66,2023-06,Wednesday
+1882,Fatima Das,Dumbbell Set,Sports,1.0,519.73,2023-06-03,East,Credit Card,519.73,2023-06,Saturday
+1259,Fatima Verma,USB-C Cable,Electronics,2.0,1629.39,2023-06-16,Central,Net Banking,3258.78,2023-06,Friday
+1139,Ishaan Smith,Self-Help Guide,Books,2.0,748.72,2023-03-29,North,UPI,1497.44,2023-03,Wednesday
+1866,Olivia Sharma,Cotton T-Shirt,Clothing,2.0,1393.95,2023-01-16,North,UPI,2787.9,2023-01,Monday
+1892,Ananya Verma,Kids Story Book,Books,2.0,496.11,2023-08-03,South,Net Banking,992.22,2023-08,Thursday
+1535,Riya Khan,Non-stick Pan,Home & Kitchen,1.0,1676.64,2023-01-12,South,UPI,1676.64,2023-01,Thursday
+1377,Riya Khan,Cutlery Set,Home & Kitchen,1.0,2659.75,2023-05-04,South,Net Banking,2659.75,2023-05,Thursday
+1594,Mohammed Verma,Kids Story Book,Books,1.0,665.91,2023-01-23,North,UPI,665.91,2023-01,Monday
+2115,Ishaan Khan,Bluetooth Speaker,Electronics,1.0,1391.71,2023-01-19,North,Credit Card,1391.71,2023-01,Thursday
+1587,Vivaan Patel,Kids Story Book,Books,1.0,623.86,2023-03-21,South,Cash,623.86,2023-03,Tuesday
+1041,Unknown,Water Bottle,Sports,2.0,2623.53,2023-05-14,North,Credit Card,5247.06,2023-05,Sunday
+1984,Meera Gupta,Baseball Cap,Clothing,1.0,705.85,2023-03-10,North,UPI,705.85,2023-03,Friday
+1891,Riya Patel,Denim Jacket,Clothing,3.0,384.54,2023-08-21,Central,Credit Card,1153.62,2023-08,Monday
+1073,Ling Iyer,Resistance Bands,Sports,1.0,1620.355,2023-06-01,North,Debit Card,1620.36,2023-06,Thursday
+1758,Mohammed Smith,Wireless Mouse,Electronics,1.0,1087.33,2023-03-02,West,Cash,1087.33,2023-03,Thursday
+1503,Sophia Johnson,Cutlery Set,Home & Kitchen,2.0,3303.62,2023-10-08,Central,UPI,6607.24,2023-10,Sunday
+1548,Noah Johnson,USB-C Cable,Electronics,1.0,1192.01,2023-04-18,North,UPI,1192.01,2023-04,Tuesday
+1085,Ananya Johnson,Yoga Mat,Sports,1.0,362.13,2023-05-23,Central,Cash,362.13,2023-05,Tuesday
+1033,Kabir Iyer,Webcam,Electronics,1.0,1342.8,2023-04-18,East,Net Banking,1342.8,2023-04,Tuesday
+1309,Mohammed Das,Non-stick Pan,Home & Kitchen,1.0,619.88,2023-10-02,South,Debit Card,619.88,2023-10,Monday
+1886,Olivia Nair,Laptop Stand,Electronics,2.0,1878.34,2023-08-06,South,Cash,3756.68,2023-08,Sunday
+1956,Vivaan Wang,LED Lamp,Home & Kitchen,3.0,1500.18,2023-12-02,East,Cash,4500.54,2023-12,Saturday
+1873,Diya Reddy,Water Bottle,Sports,1.0,1394.42,2023-12-06,Unknown,Cash,1394.42,2023-12,Wednesday
+1192,Ishaan Sharma,Denim Jacket,Clothing,3.0,1393.95,2023-11-12,East,Cash,4181.85,2023-11,Sunday
+1570,Wei Das,Wool Sweater,Clothing,1.0,1357.29,2023-02-16,South,Cash,1357.29,2023-02,Thursday
+2091,Olivia Das,Football,Sports,1.0,1089.6,2023-03-27,North,Cash,1089.6,2023-03,Monday
+1665,Emma Wang,Cotton T-Shirt,Clothing,1.0,1749.16,2023-04-21,Central,Cash,1749.16,2023-04,Friday
+1369,Noah Sharma,Cotton T-Shirt,Clothing,1.0,1163.38,2023-05-21,East,Debit Card,1163.38,2023-05,Sunday
+1278,Liam Lee,LED Lamp,Home & Kitchen,1.0,3555.95,2023-02-28,West,Net Banking,3555.95,2023-02,Tuesday
+1922,Fatima Gupta,LED Lamp,Home & Kitchen,1.0,1981.86,2023-05-12,Central,Debit Card,1981.86,2023-05,Friday
+1782,Sara Nair,Notebook Set,Books,1.0,735.39,2023-02-11,East,Net Banking,735.39,2023-02,Saturday
+1435,Meera Das,Webcam,Electronics,4.0,3085.36,2023-07-18,Unknown,Cash,12341.44,2023-07,Tuesday
+1071,Fatima Nair,Storage Jars,Home & Kitchen,1.0,3864.81,2023-05-19,East,Cash,3864.81,2023-05,Friday
+1595,Unknown,Wireless Mouse,Electronics,2.0,1402.89,2023-10-23,East,Credit Card,2805.78,2023-10,Monday
+1591,Mohammed Iyer,Coffee Maker,Home & Kitchen,1.0,3866.77,2023-07-11,South,Credit Card,3866.77,2023-07,Tuesday
+2038,Ishaan Gupta,USB-C Cable,Electronics,3.0,3138.75,2023-11-06,North,Credit Card,9416.25,2023-11,Monday
+1671,Vivaan Iyer,LED Lamp,Home & Kitchen,1.0,1327.66,2023-12-24,West,UPI,1327.66,2023-12,Sunday
+2072,Meera Chen,Cook Book,Books,1.0,682.68,2023-07-15,West,Net Banking,682.68,2023-07,Saturday
+1391,Ling Sharma,LED Lamp,Home & Kitchen,1.0,2898.21,2023-12-05,Central,Credit Card,2898.21,2023-12,Tuesday
+1559,Emma Iyer,Storage Jars,Home & Kitchen,3.0,729.35,2023-03-19,West,UPI,2188.05,2023-03,Sunday
+2061,Liam Verma,USB-C Cable,Electronics,1.0,2910.81,2023-08-03,East,Cash,2910.81,2023-08,Thursday
+1133,Ling Verma,LED Lamp,Home & Kitchen,2.0,3558.54,2023-03-22,North,Debit Card,7117.08,2023-03,Wednesday
+1223,Sophia Verma,Baseball Cap,Clothing,4.0,2088.16,2023-01-29,Central,Cash,8352.64,2023-01,Sunday
+2082,Olivia Das,Laptop Stand,Electronics,1.0,1557.12,2023-02-21,South,Cash,1557.12,2023-02,Tuesday
+1268,Liam Brown,Notebook Set,Books,4.0,726.74,2023-10-06,Central,Cash,2906.96,2023-10,Friday
+1970,Diya Lee,Resistance Bands,Sports,1.0,1620.2,2023-03-07,East,UPI,1620.2,2023-03,Tuesday
+1082,Aditya Sharma,Coffee Maker,Home & Kitchen,1.0,2680.71,2023-11-01,South,UPI,2680.71,2023-11,Wednesday
+2164,Vivaan Gupta,Running Shoes,Clothing,1.0,2106.64,2023-06-18,South,Net Banking,2106.64,2023-06,Sunday
+1599,Vivaan Verma,Laptop Stand,Electronics,4.0,3420.47,2023-02-14,West,Credit Card,13681.88,2023-02,Tuesday
+1116,Olivia Brown,Non-stick Pan,Home & Kitchen,1.0,3261.32,2023-07-23,East,Credit Card,3261.32,2023-07,Sunday
+1650,Liam Nair,Self-Help Guide,Books,2.0,627.32,2023-10-07,North,Net Banking,1254.64,2023-10,Saturday
+1852,Sophia Smith,Wireless Mouse,Electronics,1.0,1435.45,2023-11-17,North,Net Banking,1435.45,2023-11,Friday
+1209,Fatima Reddy,Football,Sports,1.0,1056.33,2023-02-25,East,Debit Card,1056.33,2023-02,Saturday
+1345,Meera Patel,LED Lamp,Home & Kitchen,1.0,3170.17,2023-09-12,Central,Credit Card,3170.17,2023-09,Tuesday
+1330,Wei Iyer,Webcam,Electronics,1.0,2437.75,2023-02-03,North,Credit Card,2437.75,2023-02,Friday
+2118,Mohammed Das,Bluetooth Speaker,Electronics,1.0,2503.41,2023-06-06,Central,Cash,2503.41,2023-06,Tuesday
+1015,Mohammed Das,Baseball Cap,Clothing,1.0,1603.31,2023-06-15,North,Unknown,1603.31,2023-06,Thursday
+1540,Liam Sharma,Yoga Mat,Sports,4.0,850.2,2023-01-22,East,Net Banking,3400.8,2023-01,Sunday
+1484,Unknown,Cotton T-Shirt,Clothing,1.0,1881.9,2023-11-11,North,Cash,1881.9,2023-11,Saturday
+1598,Meera Gupta,LED Lamp,Home & Kitchen,3.0,564.67,2023-11-10,North,UPI,1694.01,2023-11,Friday
+1722,Noah Khan,Water Bottle,Sports,1.0,2099.66,2023-09-09,East,Cash,2099.66,2023-09,Saturday
+1787,Aditya Gupta,Self-Help Guide,Books,3.0,702.66,2023-04-08,South,Credit Card,2107.98,2023-04,Saturday
+1680,Wei Nair,Storage Jars,Home & Kitchen,1.0,1396.58,2023-10-31,East,Cash,1396.58,2023-10,Tuesday
+1618,Fatima Lee,Storage Jars,Home & Kitchen,1.0,2325.77,2023-01-20,East,Credit Card,2325.77,2023-01,Friday
+2170,Wei Sharma,Cotton T-Shirt,Clothing,1.0,566.26,2023-10-02,South,Cash,566.26,2023-10,Monday
+1957,Kabir Khan,Self-Help Guide,Books,1.0,897.25,2023-11-30,South,Debit Card,897.25,2023-11,Thursday
+1988,Aarav Nair,Non-stick Pan,Home & Kitchen,4.0,1475.41,2023-07-01,South,Cash,5901.64,2023-07,Saturday
+2191,Ling Chen,USB-C Cable,Electronics,3.0,2967.27,2023-07-28,East,UPI,8901.81,2023-07,Friday
+1007,Olivia Nair,Coffee Maker,Home & Kitchen,1.0,3396.79,2023-12-26,South,UPI,3396.79,2023-12,Tuesday
+1448,Sara Brown,Webcam,Electronics,1.0,2504.26,2023-12-01,Central,Cash,2504.26,2023-12,Friday
+1817,Unknown,Kids Story Book,Books,2.0,648.68,2023-03-25,West,Cash,1297.36,2023-03,Saturday
+1368,Mohammed Smith,USB-C Cable,Electronics,3.0,1576.49,2023-10-19,Unknown,Net Banking,4729.47,2023-10,Thursday
+2173,Sophia Reddy,Dumbbell Set,Sports,2.0,2839.75,2023-08-16,East,Debit Card,5679.5,2023-08,Wednesday
+1685,Liam Das,Wireless Mouse,Electronics,1.0,1039.05,2023-08-23,West,Debit Card,1039.05,2023-08,Wednesday
+2044,Meera Iyer,Cotton T-Shirt,Clothing,2.0,532.04,2023-10-17,North,Net Banking,1064.08,2023-10,Tuesday
+1376,Riya Iyer,Resistance Bands,Sports,10.0,571.47,2023-02-02,North,Cash,5714.7,2023-02,Thursday
+1549,Unknown,Football,Sports,1.0,856.34,2023-12-22,Central,Debit Card,856.34,2023-12,Friday
+1027,Wei Johnson,Wireless Mouse,Electronics,3.0,3318.5,2023-03-22,Central,Net Banking,9955.5,2023-03,Wednesday
+1142,Ishaan Gupta,Denim Jacket,Clothing,1.0,1126.28,2023-03-30,East,Debit Card,1126.28,2023-03,Thursday
+2156,Diya Khan,Resistance Bands,Sports,3.0,1645.38,2023-08-13,East,Cash,4936.14,2023-08,Sunday
+1542,Kabir Gupta,Storage Jars,Home & Kitchen,3.0,1903.29,2023-09-01,East,Credit Card,5709.87,2023-09,Friday
+1486,Vivaan Brown,Dumbbell Set,Sports,4.0,2075.1,2023-10-04,West,Cash,8300.4,2023-10,Wednesday
+2080,Liam Chen,Dumbbell Set,Sports,2.0,1488.47,2023-05-21,East,Credit Card,2976.94,2023-05,Sunday
+2161,Vivaan Lee,Cook Book,Books,2.0,830.71,2023-01-12,Central,UPI,1661.42,2023-01,Thursday
+1863,Diya Patel,USB-C Cable,Electronics,1.0,2576.48,2023-11-04,West,Cash,2576.48,2023-11,Saturday
+1767,James Reddy,Cook Book,Books,1.0,687.11,2023-10-12,West,Debit Card,687.11,2023-10,Thursday
+1884,Fatima Chen,Resistance Bands,Sports,1.0,2277.73,2023-06-24,West,Cash,2277.73,2023-06,Saturday
+1233,Fatima Lee,Non-stick Pan,Home & Kitchen,1.0,3863.82,2023-10-12,South,Cash,3863.82,2023-10,Thursday
+2136,James Brown,Water Bottle,Sports,1.0,536.62,2023-07-01,East,Cash,536.62,2023-07,Saturday
+1979,Olivia Reddy,Non-stick Pan,Home & Kitchen,1.0,2713.23,2023-08-03,South,Net Banking,2713.23,2023-08,Thursday
+1029,Wei Brown,Notebook Set,Books,1.0,216.37,2023-04-15,East,UPI,216.37,2023-04,Saturday
+1648,Ling Sharma,Laptop Stand,Electronics,1.0,2901.76,2023-01-08,South,Debit Card,2901.76,2023-01,Sunday
+1807,Emma Smith,Football,Sports,1.0,1715.63,2023-06-10,Central,UPI,1715.63,2023-06,Saturday
+1035,Sara Gupta,Coffee Maker,Home & Kitchen,5.0,668.38,2023-12-28,West,Net Banking,3341.9,2023-12,Thursday
+1289,Wei Iyer,Cutlery Set,Home & Kitchen,3.0,929.46,2023-03-11,Central,Credit Card,2788.38,2023-03,Saturday
+1701,James Wang,Baseball Cap,Clothing,1.0,667.49,2023-05-19,East,UPI,667.49,2023-05,Friday
+1481,Meera Iyer,USB-C Cable,Electronics,2.0,748.4,2023-12-11,North,Cash,1496.8,2023-12,Monday
+1455,Mohammed Das,Yoga Mat,Sports,1.0,963.41,2023-03-26,South,Cash,963.41,2023-03,Sunday
+1607,Sophia Verma,Webcam,Electronics,2.0,990.87,2023-08-26,Central,Net Banking,1981.74,2023-08,Saturday
+1619,Kabir Reddy,Fiction Novel,Books,1.0,798.27,2023-08-27,Central,UPI,798.27,2023-08,Sunday
+1457,Diya Lee,Kids Story Book,Books,1.0,618.11,2023-01-12,South,Cash,618.11,2023-01,Thursday
+1832,Meera Chen,Bluetooth Speaker,Electronics,1.0,3258.18,2023-05-02,Central,Net Banking,3258.18,2023-05,Tuesday
+1915,Meera Das,Cotton T-Shirt,Clothing,1.0,2057.17,2023-06-18,Central,Cash,2057.17,2023-06,Sunday
+1079,Diya Iyer,Bluetooth Speaker,Electronics,2.0,2516.41,2023-05-03,North,Debit Card,5032.82,2023-05,Wednesday
+1545,Ishaan Patel,Yoga Mat,Sports,1.0,2975.71,2023-07-07,West,Cash,2975.71,2023-07,Friday
+2062,James Chen,Laptop Stand,Electronics,1.0,3401.38,2023-04-12,East,Debit Card,3401.38,2023-04,Wednesday
+1804,Meera Gupta,Self-Help Guide,Books,2.0,200.71,2023-04-27,Central,Cash,401.42,2023-04,Thursday
+1016,Meera Das,Cotton T-Shirt,Clothing,1.0,1636.6,2023-02-13,Central,Credit Card,1636.6,2023-02,Monday
+2053,Sophia Sharma,Webcam,Electronics,1.0,2879.78,2023-07-25,East,UPI,2879.78,2023-07,Tuesday
+2192,Ananya Nair,Yoga Mat,Sports,1.0,2770.75,2023-03-18,North,UPI,2770.75,2023-03,Saturday
+1284,Fatima Iyer,Coffee Maker,Home & Kitchen,1.0,1812.08,2023-10-17,South,Cash,1812.08,2023-10,Tuesday
+2009,Fatima Chen,Water Bottle,Sports,3.0,1205.19,2023-11-07,West,Cash,3615.57,2023-11,Tuesday
+1672,Vivaan Brown,Football,Sports,2.0,2637.75,2023-02-26,East,Credit Card,5275.5,2023-02,Sunday
+1560,Ling Iyer,Webcam,Electronics,1.0,1296.8,2023-11-10,Central,Net Banking,1296.8,2023-11,Friday
+1739,Riya Patel,Self-Help Guide,Books,2.0,755.88,2023-12-18,South,UPI,1511.76,2023-12,Monday
+1645,Diya Sharma,Cotton T-Shirt,Clothing,1.0,373.05,2023-09-08,Central,Debit Card,373.05,2023-09,Friday
+1286,Emma Verma,Dumbbell Set,Sports,2.0,1663.47,2023-01-17,South,UPI,3326.94,2023-01,Tuesday
+2088,Noah Reddy,Football,Sports,2.0,874.74,2023-09-20,West,Cash,1749.48,2023-09,Wednesday
+1038,Ananya Chen,Denim Jacket,Clothing,2.0,1855.09,2023-01-13,South,Cash,3710.18,2023-01,Friday
+1573,Emma Iyer,Cotton T-Shirt,Clothing,3.0,1393.95,2023-05-28,East,Cash,4181.85,2023-05,Sunday
+1676,Fatima Patel,Laptop Stand,Electronics,1.0,3101.09,2023-08-20,Central,UPI,3101.09,2023-08,Sunday
+1520,Diya Sharma,Storage Jars,Home & Kitchen,1.0,635.28,2023-03-10,West,UPI,635.28,2023-03,Friday
+1919,Noah Iyer,Laptop Stand,Electronics,1.0,884.29,2023-05-06,South,Debit Card,884.29,2023-05,Saturday
+1694,Aarav Smith,Fiction Novel,Books,1.0,730.1,2023-03-31,East,Cash,730.1,2023-03,Friday
+1135,Wei Johnson,USB-C Cable,Electronics,1.0,1578.47,2023-01-24,Central,UPI,1578.47,2023-01,Tuesday
+1106,Ling Reddy,Yoga Mat,Sports,2.0,1759.02,2023-04-28,West,UPI,3518.04,2023-04,Friday
+1667,Vivaan Johnson,Fiction Novel,Books,5.0,321.34,2023-08-06,Central,Credit Card,1606.7,2023-08,Sunday
+1709,Aarav Verma,Running Shoes,Clothing,1.0,386.56,2023-10-24,South,UPI,386.56,2023-10,Tuesday
+1126,Emma Nair,USB-C Cable,Electronics,1.0,1383.35,2023-03-20,East,UPI,1383.35,2023-03,Monday
+2151,Aditya Das,Storage Jars,Home & Kitchen,1.0,3289.31,2023-08-30,West,Cash,3289.31,2023-08,Wednesday
+1464,Mohammed Smith,Non-stick Pan,Home & Kitchen,1.0,1367.24,2023-07-15,South,Cash,1367.24,2023-07,Saturday
+1700,Riya Iyer,Non-stick Pan,Home & Kitchen,2.0,2621.72,2023-09-21,Central,Credit Card,5243.44,2023-09,Thursday
+2014,Meera Reddy,USB-C Cable,Electronics,5.0,2692.46,2023-05-12,East,Debit Card,13462.3,2023-05,Friday
+1637,Diya Lee,Laptop Stand,Electronics,1.0,2839.55,2023-11-27,West,Debit Card,2839.55,2023-11,Monday
+1385,Ananya Johnson,Baseball Cap,Clothing,2.0,1052.58,2023-11-11,North,Debit Card,2105.16,2023-11,Saturday
+2085,Fatima Sharma,Resistance Bands,Sports,1.0,2109.49,2023-05-11,South,Net Banking,2109.49,2023-05,Thursday
+1162,Aarav Iyer,Wireless Mouse,Electronics,1.0,2480.59,2023-10-08,South,Debit Card,2480.59,2023-10,Sunday
+1952,Ishaan Iyer,LED Lamp,Home & Kitchen,1.0,3139.57,2023-11-20,Central,Unknown,3139.57,2023-11,Monday
+1799,Meera Johnson,Webcam,Electronics,1.0,1322.48,2023-07-01,East,UPI,1322.48,2023-07,Saturday
+1500,Ananya Smith,Bluetooth Speaker,Electronics,1.0,3350.71,2023-02-02,North,Credit Card,3350.71,2023-02,Thursday
+1200,Liam Lee,Coffee Maker,Home & Kitchen,2.0,3103.14,2023-06-22,East,Net Banking,6206.28,2023-06,Thursday
+2127,Wei Brown,Cotton T-Shirt,Clothing,2.0,1772.24,2023-03-04,East,Net Banking,3544.48,2023-03,Saturday
+1797,Sophia Iyer,Laptop Stand,Electronics,1.0,885.18,2023-10-13,South,Unknown,885.18,2023-10,Friday
+1510,Sophia Khan,LED Lamp,Home & Kitchen,1.0,3695.76,2023-03-19,East,Credit Card,3695.76,2023-03,Sunday
+1374,Liam Wang,Storage Jars,Home & Kitchen,1.0,1782.01,2023-05-10,East,Cash,1782.01,2023-05,Wednesday
+1442,Riya Patel,Yoga Mat,Sports,1.0,304.2,2023-02-20,North,UPI,304.2,2023-02,Monday
+1120,James Sharma,Baseball Cap,Clothing,1.0,1720.04,2023-01-27,South,UPI,1720.04,2023-01,Friday
+1490,Ananya Lee,Storage Jars,Home & Kitchen,1.0,2186.92,2023-12-18,Unknown,Net Banking,2186.92,2023-12,Monday
+1819,Olivia Das,Baseball Cap,Clothing,1.0,1178.5,2023-07-29,North,Net Banking,1178.5,2023-07,Saturday
+1081,Sara Chen,Bluetooth Speaker,Electronics,2.0,1603.35,2023-08-06,Central,Debit Card,3206.7,2023-08,Sunday
+1521,Riya Brown,Notebook Set,Books,1.0,554.62,2023-10-18,West,Debit Card,554.62,2023-10,Wednesday
+1693,Ling Verma,Baseball Cap,Clothing,1.0,1744.82,2023-06-05,South,Debit Card,1744.82,2023-06,Monday
+2134,Kabir Patel,LED Lamp,Home & Kitchen,2.0,2530.11,2023-03-11,South,UPI,5060.22,2023-03,Saturday
+2098,Aarav Patel,USB-C Cable,Electronics,1.0,832.97,2023-08-25,Central,Credit Card,832.97,2023-08,Friday
+1375,Wei Verma,Water Bottle,Sports,2.0,2742.8,2023-12-06,North,Net Banking,5485.6,2023-12,Wednesday
+1212,Wei Khan,Wireless Mouse,Electronics,1.0,773.62,2023-03-31,Central,Credit Card,773.62,2023-03,Friday
+2123,Olivia Johnson,Self-Help Guide,Books,1.0,791.77,2023-06-04,North,UPI,791.77,2023-06,Sunday
+1638,Ishaan Das,Baseball Cap,Clothing,1.0,1357.12,2023-02-22,West,UPI,1357.12,2023-02,Wednesday
+2103,Vivaan Verma,USB-C Cable,Electronics,3.0,2719.71,2023-02-08,North,UPI,8159.13,2023-02,Wednesday
+1202,Wei Khan,LED Lamp,Home & Kitchen,2.0,2218.91,2023-09-03,North,Net Banking,4437.82,2023-09,Sunday
+1119,Sara Chen,Baseball Cap,Clothing,1.0,917.7,2023-12-05,South,Credit Card,917.7,2023-12,Tuesday
+2007,Mohammed Das,Kids Story Book,Books,1.0,829.83,2023-03-27,Central,Credit Card,829.83,2023-03,Monday
+1577,Ling Iyer,Webcam,Electronics,2.0,2592.41,2023-01-26,East,Credit Card,5184.82,2023-01,Thursday
+1943,Fatima Wang,USB-C Cable,Electronics,1.0,980.21,2023-08-17,West,Debit Card,980.21,2023-08,Thursday
+1563,Meera Reddy,Storage Jars,Home & Kitchen,1.0,2758.87,2023-02-03,South,Debit Card,2758.87,2023-02,Friday
+1907,Vivaan Smith,Denim Jacket,Clothing,1.0,883.1,2023-06-17,Central,Credit Card,883.1,2023-06,Saturday
+1584,Emma Sharma,Water Bottle,Sports,1.0,2538.37,2023-10-14,East,UPI,2538.37,2023-10,Saturday
+1603,Aditya Johnson,Fiction Novel,Books,2.0,516.48,2023-09-03,North,UPI,1032.96,2023-09,Sunday
+1128,Emma Wang,Self-Help Guide,Books,1.0,277.12,2023-11-04,North,Unknown,277.12,2023-11,Saturday
+1792,Mohammed Lee,Kids Story Book,Books,1.0,595.86,2023-04-29,Central,Cash,595.86,2023-04,Saturday
+1814,Liam Brown,Dumbbell Set,Sports,1.0,802.57,2023-06-17,South,Credit Card,802.57,2023-06,Saturday
+1400,Liam Smith,Cotton T-Shirt,Clothing,3.0,1832.63,2023-07-17,West,UPI,5497.89,2023-07,Monday
+1175,Mohammed Chen,Self-Help Guide,Books,2.0,430.96,2023-03-15,South,Credit Card,861.92,2023-03,Wednesday
+1321,Unknown,Non-stick Pan,Home & Kitchen,1.0,472.26,2023-09-09,South,Cash,472.26,2023-09,Saturday
+1980,Riya Iyer,Notebook Set,Books,2.0,627.13,2023-04-28,West,Net Banking,1254.26,2023-04,Friday
+1470,Noah Chen,Bluetooth Speaker,Electronics,1.0,853.25,2023-04-20,South,Credit Card,853.25,2023-04,Thursday
+1831,Liam Verma,USB-C Cable,Electronics,1.0,2301.78,2023-07-31,East,Debit Card,2301.78,2023-07,Monday
+2150,Olivia Patel,Denim Jacket,Clothing,1.0,537.66,2023-08-24,Central,UPI,537.66,2023-08,Thursday
+1080,Ling Johnson,Kids Story Book,Books,2.0,328.23,2023-04-29,East,Credit Card,656.46,2023-04,Saturday
+1715,Meera Brown,Storage Jars,Home & Kitchen,3.0,2700.83,2023-08-08,West,UPI,8102.49,2023-08,Tuesday
+1458,Mohammed Sharma,Denim Jacket,Clothing,1.0,1514.5,2023-01-29,Central,Debit Card,1514.5,2023-01,Sunday
+1291,Liam Johnson,Storage Jars,Home & Kitchen,5.0,2052.89,2023-07-26,North,Credit Card,10264.45,2023-07,Wednesday
+1371,Ananya Wang,Cutlery Set,Home & Kitchen,1.0,2065.65,2023-05-26,East,Credit Card,2065.65,2023-05,Friday
+1936,Vivaan Iyer,Wireless Mouse,Electronics,1.0,2953.36,2023-01-22,North,Net Banking,2953.36,2023-01,Sunday
+1478,James Verma,Football,Sports,1.0,1401.62,2023-10-03,Central,UPI,1401.62,2023-10,Tuesday
+1910,Aditya Das,Non-stick Pan,Home & Kitchen,1.0,2648.79,2023-06-04,South,Cash,2648.79,2023-06,Sunday
+2043,Fatima Verma,Coffee Maker,Home & Kitchen,1.0,2339.33,2023-11-02,North,Debit Card,2339.33,2023-11,Thursday
+1830,Kabir Iyer,Non-stick Pan,Home & Kitchen,1.0,1829.13,2023-01-31,West,Debit Card,1829.13,2023-01,Tuesday
+1474,Mohammed Reddy,Resistance Bands,Sports,3.0,626.44,2023-03-28,South,Net Banking,1879.32,2023-03,Tuesday
+1198,Olivia Chen,LED Lamp,Home & Kitchen,4.0,1626.89,2023-11-05,South,Debit Card,6507.56,2023-11,Sunday
+1186,Sara Khan,Non-stick Pan,Home & Kitchen,1.0,762.8,2023-03-06,Central,UPI,762.8,2023-03,Monday
+1826,Aditya Khan,Webcam,Electronics,1.0,608.48,2023-10-23,Central,Net Banking,608.48,2023-10,Monday
+1422,Fatima Smith,Dumbbell Set,Sports,4.0,739.6,2023-12-23,South,Net Banking,2958.4,2023-12,Saturday
+1452,Olivia Smith,Baseball Cap,Clothing,1.0,699.16,2023-01-24,West,Cash,699.16,2023-01,Tuesday
+1257,Liam Nair,Cook Book,Books,3.0,849.55,2023-02-16,East,Credit Card,2548.65,2023-02,Thursday
+1136,Kabir Chen,Coffee Maker,Home & Kitchen,2.0,3313.7,2023-06-17,East,UPI,6627.4,2023-06,Saturday
+2154,Liam Chen,Bluetooth Speaker,Electronics,2.0,761.28,2023-02-01,West,Credit Card,1522.56,2023-02,Wednesday
+1818,Mohammed Wang,Cook Book,Books,1.0,845.38,2023-12-22,Central,Credit Card,845.38,2023-12,Friday
+1583,Riya Khan,Dumbbell Set,Sports,2.0,692.09,2023-01-13,North,Credit Card,1384.18,2023-01,Friday
+1809,Riya Verma,Cook Book,Books,2.0,895.6,2023-06-21,North,Net Banking,1791.2,2023-06,Wednesday
+2097,Ishaan Verma,Storage Jars,Home & Kitchen,1.0,2814.64,2023-11-04,West,Debit Card,2814.64,2023-11,Saturday
+2129,Sophia Iyer,Running Shoes,Clothing,1.0,1438.38,2023-01-08,North,UPI,1438.38,2023-01,Sunday
+1050,Unknown,Denim Jacket,Clothing,1.0,1393.95,2023-05-08,North,Net Banking,1393.95,2023-05,Monday
+1895,Wei Das,Football,Sports,1.0,433.29,2023-08-25,West,Cash,433.29,2023-08,Friday
+1624,Sara Wang,Football,Sports,1.0,610.92,2023-02-27,East,Credit Card,610.92,2023-02,Monday
+1527,Wei Iyer,Resistance Bands,Sports,2.0,2832.44,2023-04-24,North,UPI,5664.88,2023-04,Monday
+1646,Vivaan Nair,Fiction Novel,Books,1.0,447.69,2023-01-22,North,UPI,447.69,2023-01,Sunday
+1772,Olivia Lee,Laptop Stand,Electronics,1.0,2201.94,2023-03-20,North,UPI,2201.94,2023-03,Monday
+1463,Sophia Patel,Wireless Mouse,Electronics,1.0,1775.64,2023-10-04,South,Net Banking,1775.64,2023-10,Wednesday
+1604,Kabir Brown,Resistance Bands,Sports,1.0,2129.06,2023-02-24,North,Cash,2129.06,2023-02,Friday
+2019,Kabir Reddy,Webcam,Electronics,1.0,842.29,2023-02-21,North,Net Banking,842.29,2023-02,Tuesday
+2046,Ishaan Nair,Coffee Maker,Home & Kitchen,4.0,3192.2,2023-02-21,West,Unknown,12768.8,2023-02,Tuesday
+1469,Sophia Iyer,Resistance Bands,Sports,3.0,300.57,2023-06-26,East,Net Banking,901.71,2023-06,Monday
+1034,Sophia Iyer,LED Lamp,Home & Kitchen,2.0,907.33,2023-11-21,North,Credit Card,1814.66,2023-11,Tuesday
+1417,Riya Wang,Resistance Bands,Sports,1.0,637.36,2023-12-31,Central,UPI,637.36,2023-12,Sunday
+1248,Olivia Iyer,Football,Sports,1.0,1525.17,2023-07-11,West,Credit Card,1525.17,2023-07,Tuesday
+1613,James Reddy,Water Bottle,Sports,2.0,1404.25,2023-07-15,West,Cash,2808.5,2023-07,Saturday
+1786,Ling Reddy,Kids Story Book,Books,1.0,589.96,2023-11-13,West,UPI,589.96,2023-11,Monday
+2199,Kabir Lee,Notebook Set,Books,1.0,265.84,2023-06-24,East,UPI,265.84,2023-06,Saturday
+1856,Vivaan Iyer,Webcam,Electronics,1.0,956.07,2023-02-19,West,Cash,956.07,2023-02,Sunday
+1217,Sara Smith,Cotton T-Shirt,Clothing,1.0,1660.08,2023-05-17,South,Cash,1660.08,2023-05,Wednesday
+2196,James Khan,Coffee Maker,Home & Kitchen,1.0,1748.39,2023-08-22,East,Debit Card,1748.39,2023-08,Tuesday
+1794,Ananya Iyer,Fiction Novel,Books,1.0,534.07,2023-06-26,South,Cash,534.07,2023-06,Monday
+1544,Fatima Lee,Dumbbell Set,Sports,1.0,1936.88,2023-05-05,Central,Debit Card,1936.88,2023-05,Friday
+1494,Sara Nair,Self-Help Guide,Books,1.0,666.3,2023-10-13,East,Net Banking,666.3,2023-10,Friday
+1465,Meera Das,Storage Jars,Home & Kitchen,1.0,2680.52,2023-11-03,North,UPI,2680.52,2023-11,Friday
+1392,Noah Smith,Laptop Stand,Electronics,1.0,1255.4,2023-05-10,North,Net Banking,1255.4,2023-05,Wednesday
+1439,Aarav Brown,Cutlery Set,Home & Kitchen,2.0,2977.5,2023-03-05,Central,Debit Card,5955.0,2023-03,Sunday
+1281,Fatima Gupta,Dumbbell Set,Sports,1.0,2186.22,2023-03-13,West,UPI,2186.22,2023-03,Monday
+1327,Ling Sharma,Running Shoes,Clothing,2.0,1591.05,2023-03-17,South,UPI,3182.1,2023-03,Friday
+1876,Riya Smith,Cook Book,Books,1.0,551.48,2023-03-22,West,Net Banking,551.48,2023-03,Wednesday
+1466,Wei Brown,Wireless Mouse,Electronics,2.0,918.07,2023-01-04,North,Net Banking,1836.14,2023-01,Wednesday
+1554,Riya Khan,Cutlery Set,Home & Kitchen,2.0,1826.47,2023-02-01,Central,UPI,3652.94,2023-02,Wednesday
+1062,Ishaan Chen,Resistance Bands,Sports,1.0,1124.51,2023-02-25,South,UPI,1124.51,2023-02,Saturday
+1419,Sophia Lee,LED Lamp,Home & Kitchen,1.0,3693.45,2023-12-12,Central,Cash,3693.45,2023-12,Tuesday
+1995,Emma Lee,USB-C Cable,Electronics,2.0,1810.55,2023-09-03,North,Cash,3621.1,2023-09,Sunday
+2197,Olivia Verma,Kids Story Book,Books,1.0,472.9,2023-09-16,East,Net Banking,472.9,2023-09,Saturday
+1539,Vivaan Das,Fiction Novel,Books,2.0,438.24,2023-08-11,East,Unknown,876.48,2023-08,Friday
+1156,Sophia Das,Running Shoes,Clothing,1.0,1265.74,2023-12-14,South,UPI,1265.74,2023-12,Thursday
+2112,Aditya Nair,Webcam,Electronics,1.0,789.6,2023-03-19,West,Debit Card,789.6,2023-03,Sunday
+2049,Olivia Lee,Cutlery Set,Home & Kitchen,2.0,2479.34,2023-12-31,West,Credit Card,4958.68,2023-12,Sunday
+2178,Noah Sharma,Kids Story Book,Books,1.0,692.98,2023-07-14,South,Debit Card,692.98,2023-07,Friday
+1367,Noah Khan,Bluetooth Speaker,Electronics,1.0,2495.59,2023-09-22,West,Cash,2495.59,2023-09,Friday
+1349,Riya Sharma,Wireless Mouse,Electronics,1.0,1365.89,2023-02-23,East,UPI,1365.89,2023-02,Thursday
+1944,Diya Gupta,Denim Jacket,Clothing,1.0,320.53,2023-08-11,North,Credit Card,320.53,2023-08,Friday
+2105,Mohammed Khan,Webcam,Electronics,3.0,1376.65,2023-12-05,Central,Cash,4129.95,2023-12,Tuesday
+1167,Aditya Nair,USB-C Cable,Electronics,1.0,543.18,2023-10-25,South,Credit Card,543.18,2023-10,Wednesday
+2003,Mohammed Lee,LED Lamp,Home & Kitchen,1.0,1379.02,2023-11-29,East,Debit Card,1379.02,2023-11,Wednesday
+1926,Emma Iyer,Denim Jacket,Clothing,2.0,928.99,2023-12-30,East,Net Banking,1857.98,2023-12,Saturday
+1547,Aditya Verma,Coffee Maker,Home & Kitchen,1.0,2587.85,2023-11-14,North,Debit Card,2587.85,2023-11,Tuesday
+1205,Liam Nair,Notebook Set,Books,1.0,829.04,2023-09-30,South,Cash,829.04,2023-09,Saturday
+2114,Ananya Lee,Wool Sweater,Clothing,1.0,962.78,2023-11-08,East,Net Banking,962.78,2023-11,Wednesday
+1606,Wei Smith,Coffee Maker,Home & Kitchen,1.0,1934.25,2023-06-25,West,Net Banking,1934.25,2023-06,Sunday
+2104,Wei Johnson,Denim Jacket,Clothing,3.0,916.08,2023-06-13,North,Debit Card,2748.24,2023-06,Tuesday
+1187,Wei Gupta,Baseball Cap,Clothing,2.0,507.77,2023-11-06,South,Net Banking,1015.54,2023-11,Monday
+2181,Fatima Johnson,Self-Help Guide,Books,1.0,158.78,2023-10-18,West,Net Banking,158.78,2023-10,Wednesday
+2035,Aarav Reddy,Wool Sweater,Clothing,1.0,662.35,2023-01-28,West,UPI,662.35,2023-01,Saturday
+1010,Noah Gupta,Kids Story Book,Books,1.0,473.96,2023-05-07,East,Debit Card,473.96,2023-05,Sunday
+1011,Liam Nair,Notebook Set,Books,1.0,608.89,2023-09-18,South,Debit Card,608.89,2023-09,Monday
+2141,Fatima Reddy,Dumbbell Set,Sports,1.0,949.58,2023-04-25,West,Debit Card,949.58,2023-04,Tuesday
+1851,Emma Verma,Bluetooth Speaker,Electronics,1.0,3397.47,2023-03-26,South,Debit Card,3397.47,2023-03,Sunday
+2117,Diya Gupta,Storage Jars,Home & Kitchen,3.0,3650.42,2023-11-23,South,UPI,10951.26,2023-11,Thursday
+1556,Emma Iyer,Dumbbell Set,Sports,1.0,2493.54,2023-08-18,Central,UPI,2493.54,2023-08,Friday
+1290,Meera Gupta,Denim Jacket,Clothing,1.0,1382.66,2023-12-13,East,Debit Card,1382.66,2023-12,Wednesday
+1428,Aditya Chen,Baseball Cap,Clothing,1.0,751.31,2023-08-01,Central,Debit Card,751.31,2023-08,Tuesday
+1562,Liam Johnson,Coffee Maker,Home & Kitchen,2.0,3503.66,2023-03-25,West,Debit Card,7007.32,2023-03,Saturday
+1677,Liam Das,Wireless Mouse,Electronics,2.0,1815.85,2023-02-09,South,UPI,3631.7,2023-02,Thursday
+2183,Wei Smith,Cutlery Set,Home & Kitchen,1.0,2477.92,2023-05-21,North,Net Banking,2477.92,2023-05,Sunday
+2187,Ling Patel,Denim Jacket,Clothing,1.0,1823.48,2023-02-28,North,Debit Card,1823.48,2023-02,Tuesday
+1896,Unknown,Self-Help Guide,Books,2.0,262.63,2023-08-01,Central,Debit Card,525.26,2023-08,Tuesday
+1720,Sophia Khan,Storage Jars,Home & Kitchen,2.0,1126.67,2023-02-20,South,Credit Card,2253.34,2023-02,Monday
+1152,Emma Brown,Yoga Mat,Sports,1.0,1736.75,2023-07-05,East,Credit Card,1736.75,2023-07,Wednesday
+1113,Ishaan Gupta,Storage Jars,Home & Kitchen,1.0,1354.73,2023-06-05,North,Credit Card,1354.73,2023-06,Monday
+1928,Ling Johnson,Running Shoes,Clothing,1.0,2321.64,2023-05-07,South,UPI,2321.64,2023-05,Sunday
+1424,Fatima Reddy,LED Lamp,Home & Kitchen,5.0,707.26,2023-04-10,Central,Debit Card,3536.3,2023-04,Monday
+1963,James Verma,Cotton T-Shirt,Clothing,1.0,2047.23,2023-07-27,Central,Debit Card,2047.23,2023-07,Thursday
+2106,Aditya Iyer,Cook Book,Books,2.0,715.47,2023-06-30,East,Credit Card,1430.94,2023-06,Friday
+1462,Emma Wang,Resistance Bands,Sports,2.0,2710.02,2023-02-19,South,Net Banking,5420.04,2023-02,Sunday
+2152,Sara Gupta,Resistance Bands,Sports,1.0,1659.84,2023-10-25,East,Net Banking,1659.84,2023-10,Wednesday
+1001,Sara Khan,Wireless Mouse,Electronics,4.0,1623.62,2023-02-22,South,Debit Card,6494.48,2023-02,Wednesday
+1788,Sophia Patel,Bluetooth Speaker,Electronics,1.0,1150.22,2023-08-12,South,Debit Card,1150.22,2023-08,Saturday
+1946,James Wang,Fiction Novel,Books,1.0,224.38,2023-11-04,South,Net Banking,224.38,2023-11,Saturday
+1877,Aditya Iyer,Bluetooth Speaker,Electronics,1.0,536.36,2023-06-30,West,Net Banking,536.36,2023-06,Friday
+1712,Noah Patel,Dumbbell Set,Sports,1.0,364.33,2023-07-01,North,Debit Card,364.33,2023-07,Saturday
+1663,James Gupta,Coffee Maker,Home & Kitchen,1.0,3913.11,2023-01-31,North,Net Banking,3913.11,2023-01,Tuesday
+1674,Ishaan Patel,Baseball Cap,Clothing,1.0,1061.06,2023-12-26,West,Net Banking,1061.06,2023-12,Tuesday
+1908,Emma Verma,Water Bottle,Sports,4.0,475.97,2023-02-24,South,Debit Card,1903.88,2023-02,Friday
+1412,Sara Lee,Fiction Novel,Books,1.0,400.12,2023-03-03,South,Debit Card,400.12,2023-03,Friday
+1323,Mohammed Gupta,Yoga Mat,Sports,3.0,579.35,2023-10-31,West,Credit Card,1738.05,2023-10,Tuesday
+1002,Aditya Khan,Wireless Mouse,Electronics,1.0,2695.98,2023-11-05,South,Net Banking,2695.98,2023-11,Sunday
+2137,Aarav Chen,Webcam,Electronics,2.0,1963.0,2023-03-13,West,Credit Card,3926.0,2023-03,Monday
+1436,Ishaan Brown,Laptop Stand,Electronics,1.0,1619.93,2023-02-02,North,Net Banking,1619.93,2023-02,Thursday
+1453,Sara Lee,Football,Sports,3.0,1408.92,2023-03-31,Central,Net Banking,4226.76,2023-03,Friday
+1039,Ananya Chen,Running Shoes,Clothing,1.0,1996.79,2023-01-20,North,Cash,1996.79,2023-01,Friday
+1184,Mohammed Nair,Kids Story Book,Books,3.0,870.89,2023-11-24,South,Net Banking,2612.67,2023-11,Friday
+1218,Sara Patel,Yoga Mat,Sports,2.0,481.29,2023-02-01,East,Debit Card,962.58,2023-02,Wednesday
+1985,Olivia Verma,Cook Book,Books,1.0,400.88,2023-10-04,East,Debit Card,400.88,2023-10,Wednesday
+1307,Aarav Iyer,Yoga Mat,Sports,1.0,1976.73,2023-01-31,South,Credit Card,1976.73,2023-01,Tuesday
+2090,Emma Lee,Kids Story Book,Books,1.0,670.61,2023-11-15,East,Unknown,670.61,2023-11,Wednesday
+1550,Sara Gupta,Yoga Mat,Sports,1.0,2393.86,2023-04-13,North,UPI,2393.86,2023-04,Thursday
+1314,Ananya Iyer,Running Shoes,Clothing,2.0,1317.58,2023-12-12,North,Net Banking,2635.16,2023-12,Tuesday
+1860,Vivaan Gupta,Cotton T-Shirt,Clothing,1.0,2464.09,2023-08-12,East,Net Banking,2464.09,2023-08,Saturday
+1037,Olivia Khan,Non-stick Pan,Home & Kitchen,2.0,419.88,2023-07-01,South,Credit Card,839.76,2023-07,Saturday
+2036,Kabir Nair,Cotton T-Shirt,Clothing,10.0,1964.85,2023-05-06,South,Credit Card,19648.5,2023-05,Saturday
+2131,Riya Chen,Running Shoes,Clothing,2.0,2002.54,2023-03-21,Central,Net Banking,4005.08,2023-03,Tuesday
+2110,Diya Verma,Wool Sweater,Clothing,1.0,2220.06,2023-03-26,East,Cash,2220.06,2023-03,Sunday
+1959,Wei Smith,Football,Sports,1.0,2687.04,2023-05-06,South,Cash,2687.04,2023-05,Saturday
+1757,Liam Lee,Cotton T-Shirt,Clothing,1.0,2402.15,2023-05-14,West,Net Banking,2402.15,2023-05,Sunday
+1578,Ling Lee,LED Lamp,Home & Kitchen,2.0,2627.0,2023-08-22,Central,Debit Card,5254.0,2023-08,Tuesday
+1996,Kabir Reddy,Baseball Cap,Clothing,1.0,3649.7599999999998,2023-05-08,Central,Debit Card,3649.76,2023-05,Monday
+1434,Noah Reddy,Cotton T-Shirt,Clothing,1.0,641.53,2023-02-14,East,Credit Card,641.53,2023-02,Tuesday
+1164,Fatima Sharma,Notebook Set,Books,2.0,565.77,2023-05-04,Central,Net Banking,1131.54,2023-05,Thursday
+1264,James Lee,Running Shoes,Clothing,1.0,1212.6,2023-06-10,South,Cash,1212.6,2023-06,Saturday
+1232,Wei Lee,Football,Sports,1.0,2301.62,2023-06-04,East,Debit Card,2301.62,2023-06,Sunday
+1303,Fatima Lee,Bluetooth Speaker,Electronics,1.0,861.91,2023-05-26,Central,Net Banking,861.91,2023-05,Friday
+1176,Olivia Nair,Bluetooth Speaker,Electronics,3.0,2009.41,2023-01-17,West,Net Banking,6028.23,2023-01,Tuesday
+1760,Ananya Smith,Wool Sweater,Clothing,3.0,835.66,2023-05-29,South,Credit Card,2506.98,2023-05,Monday
+1150,Liam Iyer,Webcam,Electronics,1.0,2368.67,2023-03-18,East,Net Banking,2368.67,2023-03,Saturday
+2172,Kabir Lee,Running Shoes,Clothing,1.0,476.4,2023-12-03,West,Cash,476.4,2023-12,Sunday
+1072,Ishaan Reddy,Running Shoes,Clothing,1.0,1393.95,2023-04-09,Central,Debit Card,1393.95,2023-04,Sunday
+1169,Riya Khan,Fiction Novel,Books,2.0,791.6,2023-01-22,North,Debit Card,1583.2,2023-01,Sunday
+1456,Olivia Lee,Denim Jacket,Clothing,1.0,1598.65,2023-08-01,North,Debit Card,1598.65,2023-08,Tuesday
+1090,Ananya Iyer,Dumbbell Set,Sports,1.0,2826.01,2023-10-10,Central,Credit Card,2826.01,2023-10,Tuesday
+1118,Diya Wang,Baseball Cap,Clothing,2.0,729.53,2023-03-17,South,UPI,1459.06,2023-03,Friday
+1966,Diya Patel,Baseball Cap,Clothing,1.0,1575.96,2023-10-15,South,Credit Card,1575.96,2023-10,Sunday
+1322,Meera Das,Wireless Mouse,Electronics,1.0,1134.34,2023-12-25,Central,Cash,1134.34,2023-12,Monday
+1933,Sophia Gupta,Denim Jacket,Clothing,4.0,2466.27,2023-08-19,Central,Credit Card,9865.08,2023-08,Saturday
+1460,Ling Gupta,Wool Sweater,Clothing,1.0,1979.93,2023-11-16,Central,Debit Card,1979.93,2023-11,Thursday
+2195,Vivaan Lee,Webcam,Electronics,2.0,2616.76,2023-09-24,Unknown,Net Banking,5233.52,2023-09,Sunday
+1800,Ishaan Reddy,Resistance Bands,Sports,3.0,485.56,2023-08-23,North,Cash,1456.68,2023-08,Wednesday
+1879,Ananya Johnson,Fiction Novel,Books,1.0,869.68,2023-11-27,South,UPI,869.68,2023-11,Monday
+1242,Meera Smith,Running Shoes,Clothing,2.0,1299.99,2023-09-13,Central,Debit Card,2599.98,2023-09,Wednesday
+1847,Wei Wang,Running Shoes,Clothing,1.0,1177.06,2023-05-21,South,Net Banking,1177.06,2023-05,Sunday
+1271,Wei Reddy,Kids Story Book,Books,2.0,865.54,2023-06-26,Central,Debit Card,1731.08,2023-06,Monday
+1112,Aarav Lee,Wool Sweater,Clothing,1.0,506.08,2023-11-09,Central,UPI,506.08,2023-11,Thursday
+1596,Sara Brown,Running Shoes,Clothing,1.0,448.17,2023-12-10,East,Cash,448.17,2023-12,Sunday
+1517,Aarav Gupta,Self-Help Guide,Books,1.0,322.51,2023-03-03,East,Net Banking,322.51,2023-03,Friday
+1227,Fatima Gupta,Fiction Novel,Books,3.0,468.17,2023-04-02,Unknown,Credit Card,1404.51,2023-04,Sunday
+1497,Emma Patel,Running Shoes,Clothing,1.0,898.72,2023-07-27,Central,Net Banking,898.72,2023-07,Thursday
+1499,Noah Smith,Resistance Bands,Sports,1.0,2772.61,2023-01-12,South,Debit Card,2772.61,2023-01,Thursday
+1968,Noah Gupta,LED Lamp,Home & Kitchen,2.0,2835.28,2023-12-22,Central,Cash,5670.56,2023-12,Friday
+2034,Emma Khan,Baseball Cap,Clothing,1.0,743.0,2023-01-29,South,Debit Card,743.0,2023-01,Sunday
+1196,Vivaan Lee,Laptop Stand,Electronics,1.0,3471.52,2023-07-05,Central,Debit Card,3471.52,2023-07,Wednesday
+1337,Ananya Verma,Dumbbell Set,Sports,1.0,470.64,2023-05-17,South,Debit Card,470.64,2023-05,Wednesday
+1775,Liam Iyer,Fiction Novel,Books,2.0,182.56,2023-07-24,South,Debit Card,365.12,2023-07,Monday
+1865,Ling Khan,Wool Sweater,Clothing,2.0,2090.73,2023-06-19,South,Cash,4181.46,2023-06,Monday
+1719,Ling Smith,Storage Jars,Home & Kitchen,2.0,1508.55,2023-05-23,West,Net Banking,3017.1,2023-05,Tuesday
+1138,Aarav Johnson,Laptop Stand,Electronics,1.0,2034.03,2023-10-22,North,UPI,2034.03,2023-10,Sunday
+1813,Wei Reddy,Baseball Cap,Clothing,2.0,685.67,2023-04-30,Unknown,Net Banking,1371.34,2023-04,Sunday
+1529,Sara Brown,Webcam,Electronics,1.0,2801.56,2023-06-05,North,Credit Card,2801.56,2023-06,Monday
+1508,Meera Iyer,Kids Story Book,Books,3.0,679.18,2023-11-17,North,Cash,2037.54,2023-11,Friday
+1727,Wei Sharma,Wireless Mouse,Electronics,1.0,2009.41,2023-06-28,South,UPI,2009.41,2023-06,Wednesday
+1394,Ishaan Iyer,Resistance Bands,Sports,1.0,1854.33,2023-09-12,North,Credit Card,1854.33,2023-09,Tuesday
+1383,Emma Sharma,Football,Sports,1.0,342.21,2023-04-13,South,Debit Card,342.21,2023-04,Thursday
+1222,Wei Brown,Dumbbell Set,Sports,1.0,1279.24,2023-06-17,South,Debit Card,1279.24,2023-06,Saturday
+1976,Olivia Reddy,Webcam,Electronics,1.0,765.8,2023-10-10,Central,UPI,765.8,2023-10,Tuesday
+1678,Kabir Wang,Wool Sweater,Clothing,3.0,1370.67,2023-11-18,South,Net Banking,4112.01,2023-11,Saturday
+1904,Diya Johnson,Webcam,Electronics,1.0,2484.11,2023-11-25,North,Net Banking,2484.11,2023-11,Saturday
+1329,Ishaan Sharma,Bluetooth Speaker,Electronics,1.0,1351.33,2023-03-08,North,Debit Card,1351.33,2023-03,Wednesday
+1013,Sara Chen,Webcam,Electronics,2.0,1868.21,2023-05-31,East,Credit Card,3736.42,2023-05,Wednesday
+1889,Ishaan Nair,Wool Sweater,Clothing,1.0,1813.9,2023-11-24,Central,Cash,1813.9,2023-11,Friday
+1084,Sara Sharma,LED Lamp,Home & Kitchen,1.0,1554.81,2023-12-12,North,Debit Card,1554.81,2023-12,Tuesday
+1207,James Johnson,Wool Sweater,Clothing,1.0,2391.34,2023-05-21,East,Net Banking,2391.34,2023-05,Sunday
+1104,Unknown,Football,Sports,2.0,529.05,2023-06-04,East,Cash,1058.1,2023-06,Sunday
+1310,Vivaan Khan,Cook Book,Books,2.0,754.65,2023-03-01,North,Cash,1509.3,2023-03,Wednesday
+1755,Riya Khan,Football,Sports,2.0,4100.99,2023-07-08,North,Cash,8201.98,2023-07,Saturday
+2078,Emma Sharma,Wireless Mouse,Electronics,1.0,801.91,2023-01-15,Central,Debit Card,801.91,2023-01,Sunday
+1181,Mohammed Khan,Running Shoes,Clothing,2.0,1153.97,2023-03-13,North,Debit Card,2307.94,2023-03,Monday
+1857,Noah Smith,Yoga Mat,Sports,1.0,2397.09,2023-11-14,West,Cash,2397.09,2023-11,Tuesday
+2146,Ishaan Lee,Cutlery Set,Home & Kitchen,1.0,2598.81,2023-12-08,Unknown,UPI,2598.81,2023-12,Friday
+1498,James Nair,Coffee Maker,Home & Kitchen,1.0,1699.51,2023-11-06,East,UPI,1699.51,2023-11,Monday
+1317,Vivaan Gupta,Webcam,Electronics,1.0,2035.03,2023-01-24,South,Net Banking,2035.03,2023-01,Tuesday
+1973,Liam Sharma,Storage Jars,Home & Kitchen,1.0,2325.77,2023-02-09,Central,Debit Card,2325.77,2023-02,Thursday
+1328,Riya Iyer,Yoga Mat,Sports,1.0,1437.06,2023-07-27,South,Credit Card,1437.06,2023-07,Thursday
+1661,Diya Smith,Wool Sweater,Clothing,1.0,843.63,2023-08-30,South,Credit Card,843.63,2023-08,Wednesday
+1347,Ishaan Reddy,Cutlery Set,Home & Kitchen,1.0,2227.4,2023-07-17,North,Credit Card,2227.4,2023-07,Monday
+1211,Ananya Smith,Webcam,Electronics,2.0,2009.41,2023-11-30,West,Unknown,4018.82,2023-11,Thursday
+1568,Ling Das,Self-Help Guide,Books,1.0,662.44,2023-03-14,North,Net Banking,662.44,2023-03,Tuesday
+1143,Wei Chen,Kids Story Book,Books,1.0,583.71,2023-12-15,Central,Cash,583.71,2023-12,Friday
+1515,Liam Patel,Wool Sweater,Clothing,2.0,1002.02,2023-03-23,East,UPI,2004.04,2023-03,Thursday
+1363,Fatima Das,USB-C Cable,Electronics,2.0,2223.42,2023-05-16,East,Cash,4446.84,2023-05,Tuesday
+1005,Noah Brown,Non-stick Pan,Home & Kitchen,2.0,2564.01,2023-02-10,North,Cash,5128.02,2023-02,Friday
+1045,Kabir Khan,LED Lamp,Home & Kitchen,1.0,3593.97,2023-12-13,West,Cash,3593.97,2023-12,Wednesday
+1282,Sophia Gupta,Non-stick Pan,Home & Kitchen,1.0,890.94,2023-10-15,South,Cash,890.94,2023-10,Sunday
+1203,Wei Reddy,Cotton T-Shirt,Clothing,3.0,1004.11,2023-01-10,Unknown,Debit Card,3012.33,2023-01,Tuesday
+2107,Aditya Johnson,Cotton T-Shirt,Clothing,4.0,339.61,2023-01-07,North,Debit Card,1358.44,2023-01,Saturday
+1359,Ling Gupta,Resistance Bands,Sports,4.0,2534.2,2023-03-30,North,Cash,10136.8,2023-03,Thursday
+1564,Meera Smith,Storage Jars,Home & Kitchen,1.0,713.15,2023-11-08,West,Credit Card,713.15,2023-11,Wednesday
+1770,Riya Gupta,Bluetooth Speaker,Electronics,1.0,1044.32,2023-05-20,South,Net Banking,1044.32,2023-05,Saturday
+1372,Meera Patel,Denim Jacket,Clothing,1.0,1944.74,2023-11-30,South,UPI,1944.74,2023-11,Thursday
+2005,Riya Reddy,Football,Sports,1.0,429.76,2023-10-01,West,Debit Card,429.76,2023-10,Sunday
+2066,Fatima Chen,Wool Sweater,Clothing,1.0,656.91,2023-07-13,South,Net Banking,656.91,2023-07,Thursday
+1238,Sophia Khan,Dumbbell Set,Sports,5.0,1701.18,2023-01-08,East,UPI,8505.9,2023-01,Sunday
+2168,Sophia Sharma,Webcam,Electronics,1.0,843.46,2023-12-23,West,Cash,843.46,2023-12,Saturday
+1684,Vivaan Patel,Baseball Cap,Clothing,3.0,1874.81,2023-03-17,East,UPI,5624.43,2023-03,Friday
+1274,Meera Brown,Bluetooth Speaker,Electronics,2.0,840.67,2023-03-23,South,Net Banking,1681.34,2023-03,Thursday
+2010,Wei Reddy,Dumbbell Set,Sports,2.0,1620.355,2023-08-22,North,Net Banking,3240.71,2023-08,Tuesday
+1633,Diya Sharma,Cutlery Set,Home & Kitchen,1.0,441.83,2023-02-17,North,Net Banking,441.83,2023-02,Friday
+1195,Fatima Sharma,Self-Help Guide,Books,1.0,712.96,2023-03-10,North,Cash,712.96,2023-03,Friday
+1514,Meera Smith,Wireless Mouse,Electronics,2.0,3086.13,2023-01-18,West,Debit Card,6172.26,2023-01,Wednesday
+1615,Kabir Reddy,Wireless Mouse,Electronics,1.0,3451.93,2023-03-11,West,Cash,3451.93,2023-03,Saturday
+1432,Vivaan Iyer,Kids Story Book,Books,1.0,543.29,2023-09-21,South,UPI,543.29,2023-09,Thursday
+1675,Emma Iyer,LED Lamp,Home & Kitchen,1.0,3955.54,2023-07-10,North,Credit Card,3955.54,2023-07,Monday
+1765,James Reddy,Cotton T-Shirt,Clothing,1.0,1393.95,2023-03-14,Central,Cash,1393.95,2023-03,Tuesday
+1210,Unknown,Dumbbell Set,Sports,2.0,2099.43,2023-06-19,North,Cash,4198.86,2023-06,Monday
+1163,Ishaan Sharma,Running Shoes,Clothing,2.0,2400.7,2023-11-24,South,Cash,4801.4,2023-11,Friday
+1636,Vivaan Smith,USB-C Cable,Electronics,3.0,2584.95,2023-01-31,West,UPI,7754.85,2023-01,Tuesday
+1986,Sara Khan,Self-Help Guide,Books,2.0,168.14,2023-07-21,North,Net Banking,336.28,2023-07,Friday
+1853,James Wang,Cook Book,Books,1.0,479.63,2023-09-24,North,UPI,479.63,2023-09,Sunday
+1088,Aarav Patel,Notebook Set,Books,1.0,534.07,2023-07-31,Central,Unknown,534.07,2023-07,Monday
+1346,Unknown,Coffee Maker,Home & Kitchen,1.0,1565.25,2023-01-06,East,Cash,1565.25,2023-01,Friday
+1960,Ananya Patel,LED Lamp,Home & Kitchen,1.0,1809.49,2023-08-26,West,Credit Card,1809.49,2023-08,Saturday
+1718,Meera Wang,Fiction Novel,Books,1.0,254.74,2023-05-23,West,Cash,254.74,2023-05,Tuesday
+1191,Olivia Brown,Cook Book,Books,2.0,238.62,2023-06-13,Central,Credit Card,477.24,2023-06,Tuesday
+1753,Diya Patel,Laptop Stand,Electronics,1.0,1640.59,2023-10-22,East,UPI,1640.59,2023-10,Sunday
+1179,Riya Reddy,Baseball Cap,Clothing,1.0,1393.95,2023-03-04,West,Debit Card,1393.95,2023-03,Saturday
+1769,Noah Nair,Fiction Novel,Books,2.0,285.86,2023-08-23,Central,Cash,571.72,2023-08,Wednesday
+1557,Diya Wang,Resistance Bands,Sports,1.0,865.5,2023-12-19,South,UPI,865.5,2023-12,Tuesday
+2056,Aditya Nair,Kids Story Book,Books,1.0,255.53,2023-11-25,West,Cash,255.53,2023-11,Saturday
+1393,Emma Patel,USB-C Cable,Electronics,3.0,1044.79,2023-05-19,North,Net Banking,3134.37,2023-05,Friday
+2175,Aditya Khan,Self-Help Guide,Books,1.0,595.25,2023-04-29,Unknown,Net Banking,595.25,2023-04,Saturday
+1823,Kabir Chen,Notebook Set,Books,2.0,216.84,2023-11-22,South,Net Banking,433.68,2023-11,Wednesday
+1745,Emma Khan,Cook Book,Books,1.0,441.42,2023-03-31,South,Credit Card,441.42,2023-03,Friday
+1838,Unknown,Resistance Bands,Sports,1.0,2422.58,2023-12-24,North,Cash,2422.58,2023-12,Sunday
+2165,Ling Reddy,Webcam,Electronics,1.0,2409.2,2023-02-06,North,UPI,2409.2,2023-02,Monday
+2067,Olivia Wang,Yoga Mat,Sports,1.0,1789.33,2023-06-04,East,Credit Card,1789.33,2023-06,Sunday
+1512,Riya Chen,Storage Jars,Home & Kitchen,5.0,3727.83,2023-08-26,West,UPI,18639.15,2023-08,Saturday
+1914,Ling Verma,Cook Book,Books,4.0,181.46,2023-07-11,North,Debit Card,725.84,2023-07,Tuesday
+1440,Diya Reddy,USB-C Cable,Electronics,1.0,581.29,2023-07-31,East,Debit Card,581.29,2023-07,Monday
+1729,Aditya Das,LED Lamp,Home & Kitchen,2.0,2882.3,2023-02-28,North,UPI,5764.6,2023-02,Tuesday
+1472,Olivia Verma,Coffee Maker,Home & Kitchen,2.0,2745.11,2023-07-16,Central,Credit Card,5490.22,2023-07,Sunday
+1399,Olivia Das,Running Shoes,Clothing,1.0,2350.66,2023-05-18,West,Net Banking,2350.66,2023-05,Thursday
+2006,Sara Das,Notebook Set,Books,1.0,175.21,2023-07-07,Central,UPI,175.21,2023-07,Friday
+1036,Vivaan Wang,Baseball Cap,Clothing,1.0,1998.94,2023-10-10,East,Net Banking,1998.94,2023-10,Tuesday
+1206,Sophia Khan,LED Lamp,Home & Kitchen,4.0,1549.53,2023-10-13,South,UPI,6198.12,2023-10,Friday
+1609,Aarav Chen,Baseball Cap,Clothing,2.0,3649.7599999999998,2023-08-20,South,Debit Card,7299.52,2023-08,Sunday
+2054,James Nair,Resistance Bands,Sports,3.0,2607.24,2023-09-17,North,Cash,7821.72,2023-09,Sunday
+1828,Liam Lee,Football,Sports,4.0,491.02,2023-01-12,North,Cash,1964.08,2023-01,Thursday
+1044,Ling Nair,USB-C Cable,Electronics,2.0,2688.82,2023-09-17,North,UPI,5377.64,2023-09,Sunday
+1262,Sara Khan,USB-C Cable,Electronics,2.0,3409.74,2023-11-12,Unknown,Net Banking,6819.48,2023-11,Sunday
+2011,Fatima Verma,Cutlery Set,Home & Kitchen,1.0,3868.22,2023-01-24,South,Debit Card,3868.22,2023-01,Tuesday
+1430,Olivia Johnson,Wireless Mouse,Electronics,1.0,2194.52,2023-11-15,South,Net Banking,2194.52,2023-11,Wednesday
+1229,Sara Khan,Coffee Maker,Home & Kitchen,1.0,440.87,2023-12-05,North,Credit Card,440.87,2023-12,Tuesday
+1725,Wei Patel,Fiction Novel,Books,2.0,858.46,2023-12-17,West,Net Banking,1716.92,2023-12,Sunday
+1006,Meera Chen,Wireless Mouse,Electronics,4.0,561.75,2023-04-30,East,Credit Card,2247.0,2023-04,Sunday
+2190,Unknown,Bluetooth Speaker,Electronics,2.0,1839.26,2023-12-15,Central,UPI,3678.52,2023-12,Friday
+1811,Sara Khan,Resistance Bands,Sports,1.0,1620.355,2023-09-16,East,Cash,1620.36,2023-09,Saturday
+2128,Aarav Johnson,Non-stick Pan,Home & Kitchen,1.0,3564.32,2023-12-15,South,Cash,3564.32,2023-12,Friday
+1586,Liam Reddy,Cutlery Set,Home & Kitchen,5.0,2620.94,2023-01-15,Central,Net Banking,13104.7,2023-01,Sunday
+1728,Emma Nair,Fiction Novel,Books,4.0,172.79,2023-06-29,East,Cash,691.16,2023-06,Thursday
+1319,Olivia Lee,Wool Sweater,Clothing,1.0,1471.76,2023-10-07,West,Debit Card,1471.76,2023-10,Saturday
+1630,Ling Das,Storage Jars,Home & Kitchen,1.0,631.15,2023-05-19,East,UPI,631.15,2023-05,Friday
+2121,Vivaan Wang,Fiction Novel,Books,1.0,745.93,2023-12-15,North,Net Banking,745.93,2023-12,Friday
+1313,Wei Patel,USB-C Cable,Electronics,1.0,2354.76,2023-08-22,North,Cash,2354.76,2023-08,Tuesday
+1076,Liam Johnson,Wireless Mouse,Electronics,1.0,3224.8,2023-11-19,North,Net Banking,3224.8,2023-11,Sunday
+1174,Noah Sharma,Self-Help Guide,Books,1.0,626.32,2023-08-11,East,Net Banking,626.32,2023-08,Friday
+1095,Liam Khan,Baseball Cap,Clothing,1.0,1465.23,2023-06-12,West,Credit Card,1465.23,2023-06,Monday
+1052,Noah Iyer,Wool Sweater,Clothing,1.0,991.58,2023-09-24,South,UPI,991.58,2023-09,Sunday
+1552,James Johnson,Yoga Mat,Sports,3.0,2680.41,2023-02-15,Central,Net Banking,8041.23,2023-02,Wednesday
+1789,Sophia Smith,Cook Book,Books,2.0,167.73,2023-03-27,North,Credit Card,335.46,2023-03,Monday
+2086,Mohammed Brown,Yoga Mat,Sports,1.0,2137.4,2023-07-06,South,Debit Card,2137.4,2023-07,Thursday
+1420,Aarav Smith,Yoga Mat,Sports,1.0,1846.62,2023-12-10,South,Credit Card,1846.62,2023-12,Sunday
+1748,Vivaan Reddy,Yoga Mat,Sports,2.0,1909.48,2023-10-10,South,UPI,3818.96,2023-10,Tuesday
+1221,Mohammed Johnson,Yoga Mat,Sports,5.0,483.3,2023-02-09,Central,UPI,2416.5,2023-02,Thursday
+1509,Emma Khan,Football,Sports,1.0,746.58,2023-03-11,North,Debit Card,746.58,2023-03,Saturday
+1711,Fatima Sharma,Coffee Maker,Home & Kitchen,1.0,1538.16,2023-09-16,North,Debit Card,1538.16,2023-09,Saturday
+1931,Kabir Iyer,Football,Sports,2.0,2385.23,2023-12-24,South,Cash,4770.46,2023-12,Sunday
+1608,Aditya Lee,Storage Jars,Home & Kitchen,1.0,2897.26,2023-07-14,North,Net Banking,2897.26,2023-07,Friday
+1388,Riya Johnson,USB-C Cable,Electronics,1.0,2891.89,2023-09-26,Central,Net Banking,2891.89,2023-09,Tuesday
+1094,Olivia Nair,Water Bottle,Sports,1.0,2497.36,2023-07-13,Central,Net Banking,2497.36,2023-07,Thursday
+1752,James Johnson,Resistance Bands,Sports,1.0,320.52,2023-11-25,North,Credit Card,320.52,2023-11,Saturday
+1887,Wei Sharma,Cutlery Set,Home & Kitchen,4.0,3611.5,2023-03-13,Central,Credit Card,14446.0,2023-03,Monday
+1652,Wei Sharma,Cook Book,Books,1.0,188.98,2023-11-20,South,Credit Card,188.98,2023-11,Monday
+1149,Emma Chen,Storage Jars,Home & Kitchen,1.0,3171.98,2023-01-27,East,Net Banking,3171.98,2023-01,Friday
+1754,Emma Chen,Baseball Cap,Clothing,1.0,1576.38,2023-09-02,East,Cash,1576.38,2023-09,Saturday
+1483,Meera Wang,Denim Jacket,Clothing,1.0,935.13,2023-04-28,East,Debit Card,935.13,2023-04,Friday
+1403,Noah Sharma,Laptop Stand,Electronics,2.0,1772.39,2023-12-02,North,Unknown,3544.78,2023-12,Saturday
+1250,Aditya Johnson,Bluetooth Speaker,Electronics,5.0,3423.18,2023-10-17,West,UPI,17115.9,2023-10,Tuesday
+1341,Ananya Das,Running Shoes,Clothing,10.0,2097.56,2023-01-12,East,Credit Card,20975.6,2023-01,Thursday
+1927,Meera Khan,Kids Story Book,Books,2.0,534.07,2023-07-05,Unknown,Credit Card,1068.14,2023-07,Wednesday
+1201,Aarav Nair,Storage Jars,Home & Kitchen,3.0,771.25,2023-08-02,East,Credit Card,2313.75,2023-08,Wednesday
+1861,Kabir Johnson,Dumbbell Set,Sports,1.0,641.19,2023-06-25,East,Net Banking,641.19,2023-06,Sunday
+1092,Kabir Smith,Notebook Set,Books,3.0,843.52,2023-09-18,South,Net Banking,2530.56,2023-09,Monday
+1733,Diya Iyer,Webcam,Electronics,1.0,3498.24,2023-06-02,East,Credit Card,3498.24,2023-06,Friday
+1541,Vivaan Patel,Denim Jacket,Clothing,1.0,2029.96,2023-11-01,West,Cash,2029.96,2023-11,Wednesday
+1692,Emma Chen,Wool Sweater,Clothing,1.0,2432.71,2023-03-25,Unknown,UPI,2432.71,2023-03,Saturday
+1585,Sara Chen,Running Shoes,Clothing,1.0,314.05,2023-06-03,North,UPI,314.05,2023-06,Saturday
+1443,Ishaan Iyer,Denim Jacket,Clothing,1.0,2059.82,2023-04-10,Central,Credit Card,2059.82,2023-04,Monday
+1610,Diya Patel,Cook Book,Books,1.0,640.88,2023-10-19,East,UPI,640.88,2023-10,Thursday
+1411,Fatima Brown,Cutlery Set,Home & Kitchen,1.0,3290.27,2023-01-24,East,Credit Card,3290.27,2023-01,Tuesday
+1918,Vivaan Patel,Bluetooth Speaker,Electronics,2.0,2935.31,2023-03-06,South,Debit Card,5870.62,2023-03,Monday
+2048,Diya Chen,Bluetooth Speaker,Electronics,2.0,1361.41,2023-09-14,South,Debit Card,2722.82,2023-09,Thursday
+1569,Ananya Chen,Yoga Mat,Sports,1.0,1620.355,2023-03-11,Central,Net Banking,1620.36,2023-03,Saturday
+1951,Sophia Patel,Coffee Maker,Home & Kitchen,1.0,2395.22,2023-11-04,West,Debit Card,2395.22,2023-11,Saturday
+2169,Ishaan Das,Laptop Stand,Electronics,1.0,1868.71,2023-06-30,Central,UPI,1868.71,2023-06,Friday
+1688,Meera Johnson,Notebook Set,Books,3.0,335.42,2023-06-17,East,Credit Card,1006.26,2023-06,Saturday
+1336,Ling Khan,USB-C Cable,Electronics,3.0,2009.41,2023-01-30,North,UPI,6028.23,2023-01,Monday
+1643,Noah Chen,Non-stick Pan,Home & Kitchen,1.0,1575.26,2023-04-01,East,Debit Card,1575.26,2023-04,Saturday
+1315,Aarav Khan,Wireless Mouse,Electronics,1.0,610.05,2023-07-06,North,Cash,610.05,2023-07,Thursday
+1783,Ananya Wang,Cook Book,Books,1.0,766.96,2023-02-12,West,Credit Card,766.96,2023-02,Sunday
+1911,Ananya Iyer,Resistance Bands,Sports,1.0,815.64,2023-06-16,North,Net Banking,815.64,2023-06,Friday
+2166,Vivaan Verma,Running Shoes,Clothing,1.0,866.74,2023-09-17,North,Cash,866.74,2023-09,Sunday
+2163,Ishaan Lee,Webcam,Electronics,4.0,2971.37,2023-12-01,West,UPI,11885.48,2023-12,Friday
+1507,Fatima Nair,Cotton T-Shirt,Clothing,1.0,2376.93,2023-10-15,South,Cash,2376.93,2023-10,Sunday
+1134,Emma Johnson,Storage Jars,Home & Kitchen,2.0,2909.26,2023-08-01,Central,Cash,5818.52,2023-08,Tuesday
+1093,Mohammed Iyer,Self-Help Guide,Books,2.0,343.46,2023-06-02,North,UPI,686.92,2023-06,Friday
+1835,Kabir Nair,Dumbbell Set,Sports,2.0,570.01,2023-05-06,Central,Debit Card,1140.02,2023-05,Saturday
+1593,Kabir Chen,Cutlery Set,Home & Kitchen,4.0,769.04,2023-12-13,North,Net Banking,3076.16,2023-12,Wednesday
+2051,Ishaan Johnson,Laptop Stand,Electronics,1.0,3245.27,2023-06-01,Unknown,Debit Card,3245.27,2023-06,Thursday
+1395,Emma Iyer,Running Shoes,Clothing,4.0,1393.95,2023-10-08,South,Credit Card,5575.8,2023-10,Sunday
+2057,Liam Chen,Cotton T-Shirt,Clothing,3.0,705.29,2023-07-25,West,Debit Card,2115.87,2023-07,Tuesday
+2157,Mohammed Chen,Wool Sweater,Clothing,2.0,1385.8,2023-10-26,South,Credit Card,2771.6,2023-10,Thursday
+1576,Fatima Wang,LED Lamp,Home & Kitchen,2.0,2950.11,2023-04-05,South,Credit Card,5900.22,2023-04,Wednesday
+1574,Sara Sharma,Webcam,Electronics,2.0,2892.28,2023-09-13,West,Cash,5784.56,2023-09,Wednesday
+1279,Wei Verma,LED Lamp,Home & Kitchen,1.0,882.45,2023-03-02,South,UPI,882.45,2023-03,Thursday
+1736,Mohammed Johnson,LED Lamp,Home & Kitchen,2.0,2441.26,2023-01-10,Central,Debit Card,4882.52,2023-01,Tuesday
+2133,Liam Das,Kids Story Book,Books,2.0,605.32,2023-06-04,North,UPI,1210.64,2023-06,Sunday
+1280,Liam Smith,Baseball Cap,Clothing,2.0,1961.3,2023-10-22,Central,Debit Card,3922.6,2023-10,Sunday
+1640,James Das,Coffee Maker,Home & Kitchen,1.0,912.98,2023-01-02,West,Net Banking,912.98,2023-01,Monday
+1338,Ananya Gupta,Self-Help Guide,Books,5.0,457.8,2023-06-12,South,Net Banking,2289.0,2023-06,Monday
+1228,Aarav Iyer,Cotton T-Shirt,Clothing,1.0,544.63,2023-08-06,West,Net Banking,544.63,2023-08,Sunday
+1699,Kabir Nair,Yoga Mat,Sports,1.0,1434.94,2023-07-02,West,Debit Card,1434.94,2023-07,Sunday
+1009,Vivaan Chen,Bluetooth Speaker,Electronics,1.0,1412.73,2023-05-18,East,Cash,1412.73,2023-05,Thursday
+1086,Olivia Smith,Laptop Stand,Electronics,1.0,2532.69,2023-12-10,East,UPI,2532.69,2023-12,Sunday
+2058,Sophia Verma,Cook Book,Books,1.0,640.72,2023-01-20,East,Cash,640.72,2023-01,Friday
+1905,Vivaan Lee,Storage Jars,Home & Kitchen,1.0,1026.79,2023-07-13,Unknown,Credit Card,1026.79,2023-07,Thursday
+1069,Emma Johnson,Bluetooth Speaker,Electronics,2.0,2056.37,2023-12-20,Central,Debit Card,4112.74,2023-12,Wednesday
+2179,Fatima Chen,Non-stick Pan,Home & Kitchen,1.0,3648.83,2023-11-08,East,Credit Card,3648.83,2023-11,Wednesday
+1097,Kabir Smith,Fiction Novel,Books,2.0,825.31,2023-08-29,South,Credit Card,1650.62,2023-08,Tuesday
+1342,Olivia Reddy,Non-stick Pan,Home & Kitchen,2.0,1015.2,2023-02-21,West,Net Banking,2030.4,2023-02,Tuesday
+1122,Noah Patel,Football,Sports,1.0,2765.88,2023-09-03,North,Credit Card,2765.88,2023-09,Sunday
+1157,Mohammed Smith,Notebook Set,Books,4.0,169.01,2023-11-06,South,Unknown,676.04,2023-11,Monday
+2135,Wei Das,USB-C Cable,Electronics,1.0,1212.3,2023-04-04,West,Net Banking,1212.3,2023-04,Tuesday
+1947,Emma Chen,Notebook Set,Books,1.0,750.05,2023-05-13,South,Debit Card,750.05,2023-05,Saturday
+1994,Ishaan Verma,Cook Book,Books,1.0,695.95,2023-03-21,North,Debit Card,695.95,2023-03,Tuesday
+1634,Aditya Wang,Wireless Mouse,Electronics,1.0,1677.48,2023-07-12,Central,Debit Card,1677.48,2023-07,Wednesday
+1471,Liam Patel,Bluetooth Speaker,Electronics,1.0,1322.17,2023-03-16,North,Credit Card,1322.17,2023-03,Thursday
+1558,James Verma,Dumbbell Set,Sports,1.0,1880.58,2023-03-02,Central,Net Banking,1880.58,2023-03,Thursday
+1724,Ananya Brown,Wireless Mouse,Electronics,2.0,2577.88,2023-09-09,East,Debit Card,5155.76,2023-09,Saturday
+1294,Wei Wang,Dumbbell Set,Sports,1.0,458.62,2023-12-16,West,UPI,458.62,2023-12,Saturday
+1773,Sara Lee,Kids Story Book,Books,1.0,872.2,2023-01-23,North,UPI,872.2,2023-01,Monday
+1415,Wei Gupta,Dumbbell Set,Sports,1.0,2278.13,2023-07-18,South,Credit Card,2278.13,2023-07,Tuesday
+2055,Fatima Sharma,Bluetooth Speaker,Electronics,5.0,1330.71,2023-05-29,South,Credit Card,6653.55,2023-05,Monday
+2153,Meera Verma,Bluetooth Speaker,Electronics,1.0,3295.26,2023-12-14,North,Cash,3295.26,2023-12,Thursday
+1165,Meera Lee,Football,Sports,1.0,1403.9,2023-12-07,West,Debit Card,1403.9,2023-12,Thursday
+1121,Noah Chen,Laptop Stand,Electronics,4.0,3321.38,2023-10-31,East,Net Banking,13285.52,2023-10,Tuesday
+1906,Aarav Smith,Cotton T-Shirt,Clothing,2.0,1752.67,2023-06-22,North,Credit Card,3505.34,2023-06,Thursday
+1697,Aarav Verma,Cook Book,Books,1.0,277.32,2023-02-04,East,Cash,277.32,2023-02,Saturday
+1283,Noah Johnson,Kids Story Book,Books,1.0,412.94,2023-10-17,South,Credit Card,412.94,2023-10,Tuesday
+1365,Vivaan Reddy,Coffee Maker,Home & Kitchen,1.0,1125.86,2023-07-10,West,UPI,1125.86,2023-07,Monday
+1747,Sara Das,Cook Book,Books,1.0,320.45,2023-09-01,South,UPI,320.45,2023-09,Friday
+1311,Aarav Reddy,Cotton T-Shirt,Clothing,1.0,705.95,2023-03-25,South,Credit Card,705.95,2023-03,Saturday
+1511,Kabir Reddy,Cutlery Set,Home & Kitchen,1.0,2910.71,2023-04-30,West,Credit Card,2910.71,2023-04,Sunday
+1180,James Patel,Fiction Novel,Books,1.0,855.17,2023-10-09,East,Credit Card,855.17,2023-10,Monday
+1912,Ananya Patel,Running Shoes,Clothing,2.0,1653.03,2023-02-04,East,Cash,3306.06,2023-02,Saturday
+1810,Aditya Brown,Coffee Maker,Home & Kitchen,2.0,2408.02,2023-09-24,Central,UPI,4816.04,2023-09,Sunday
+1821,Emma Sharma,Baseball Cap,Clothing,2.0,1487.91,2023-04-21,Unknown,UPI,2975.82,2023-04,Friday
+1070,Meera Smith,USB-C Cable,Electronics,5.0,1590.89,2023-12-06,South,UPI,7954.45,2023-12,Wednesday
+1784,Ling Chen,Kids Story Book,Books,1.0,650.66,2023-04-06,East,UPI,650.66,2023-04,Thursday
+1524,Fatima Wang,Non-stick Pan,Home & Kitchen,1.0,2325.77,2023-09-26,West,Debit Card,2325.77,2023-09,Tuesday
+2149,Mohammed Wang,Running Shoes,Clothing,1.0,781.95,2023-06-28,Central,Debit Card,781.95,2023-06,Wednesday
+2004,Ishaan Sharma,Baseball Cap,Clothing,2.0,1289.43,2023-04-09,Central,Debit Card,2578.86,2023-04,Sunday
+1805,Olivia Sharma,Notebook Set,Books,1.0,325.28,2023-01-06,West,Debit Card,325.28,2023-01,Friday
+1816,Olivia Patel,Fiction Novel,Books,1.0,717.12,2023-10-29,Central,Cash,717.12,2023-10,Sunday
+1124,James Smith,Resistance Bands,Sports,4.0,1427.51,2023-05-31,Central,Unknown,5710.04,2023-05,Wednesday
+1864,Ananya Verma,Self-Help Guide,Books,5.0,532.07,2023-09-11,West,Credit Card,2660.35,2023-09,Monday
+1059,James Nair,Wool Sweater,Clothing,1.0,2068.08,2023-08-04,West,UPI,2068.08,2023-08,Friday
+2138,Kabir Lee,Football,Sports,2.0,2863.96,2023-05-31,Central,Net Banking,5727.92,2023-05,Wednesday
+1364,Ananya Iyer,Fiction Novel,Books,2.0,254.83,2023-11-13,West,Debit Card,509.66,2023-11,Monday
+1152,Emma Brown,Yoga Mat,Sports,2.0,1736.75,2023-07-05,East,Credit Card,3473.5,2023-07,Wednesday
+1266,Aarav Reddy,Baseball Cap,Clothing,5.0,2088.38,2023-08-13,West,Debit Card,10441.9,2023-08,Sunday
+1834,Ishaan Khan,Resistance Bands,Sports,4.0,823.4,2023-06-05,Central,Debit Card,3293.6,2023-06,Monday
+2073,Liam Sharma,Kids Story Book,Books,2.0,503.38,2023-09-17,East,Debit Card,1006.76,2023-09,Sunday
+1249,Aditya Patel,Running Shoes,Clothing,1.0,1584.04,2023-07-27,North,Credit Card,1584.04,2023-07,Thursday
+1381,Olivia Khan,Bluetooth Speaker,Electronics,1.0,955.02,2023-06-19,East,Unknown,955.02,2023-06,Monday
+1605,Unknown,Kids Story Book,Books,5.0,355.22,2023-05-05,South,Net Banking,1776.1,2023-05,Friday
+1999,Mohammed Iyer,Kids Story Book,Books,1.0,867.46,2023-06-22,South,Debit Card,867.46,2023-06,Thursday
+2069,Olivia Gupta,Kids Story Book,Books,2.0,209.55,2023-03-25,Central,Net Banking,419.1,2023-03,Saturday
+1551,Liam Patel,Wireless Mouse,Electronics,4.0,673.53,2023-02-25,East,UPI,2694.12,2023-02,Saturday
+1148,Meera Reddy,Cotton T-Shirt,Clothing,1.0,579.53,2023-09-26,West,Cash,579.53,2023-09,Tuesday
+1252,James Sharma,Bluetooth Speaker,Electronics,2.0,1428.58,2023-03-15,South,Net Banking,2857.16,2023-03,Wednesday
+1948,Diya Reddy,LED Lamp,Home & Kitchen,2.0,2398.31,2023-07-08,North,Net Banking,4796.62,2023-07,Saturday
+2130,Sophia Iyer,Wireless Mouse,Electronics,1.0,1450.84,2023-06-30,North,Cash,1450.84,2023-06,Friday
+1213,Riya Das,Cook Book,Books,1.0,193.17,2023-06-02,North,Credit Card,193.17,2023-06,Friday
+1441,Sara Khan,Baseball Cap,Clothing,2.0,808.36,2023-12-10,North,Debit Card,1616.72,2023-12,Sunday
+2047,Wei Wang,Kids Story Book,Books,1.0,302.82,2023-03-24,North,UPI,302.82,2023-03,Friday
+1565,Wei Lee,Notebook Set,Books,1.0,429.52,2023-11-25,Central,Net Banking,429.52,2023-11,Saturday
+1331,Vivaan Johnson,Non-stick Pan,Home & Kitchen,5.0,1681.95,2023-10-21,North,Debit Card,8409.75,2023-10,Saturday
+1277,Olivia Nair,Dumbbell Set,Sports,1.0,1767.74,2023-02-28,South,Unknown,1767.74,2023-02,Tuesday
+2089,Liam Verma,Running Shoes,Clothing,2.0,914.41,2023-06-09,Central,Net Banking,1828.82,2023-06,Friday
+2081,Ishaan Johnson,Yoga Mat,Sports,2.0,2040.66,2023-02-24,Central,Credit Card,4081.32,2023-02,Friday
+1974,James Patel,Fiction Novel,Books,1.0,480.15,2023-06-20,North,UPI,480.15,2023-06,Tuesday
+2013,James Verma,Football,Sports,1.0,1401.68,2023-03-10,Central,UPI,1401.68,2023-03,Friday
+1902,Sara Wang,Wool Sweater,Clothing,1.0,1077.15,2023-01-10,South,Debit Card,1077.15,2023-01,Tuesday
+1449,Kabir Johnson,Football,Sports,3.0,1056.16,2023-02-16,Central,Net Banking,3168.48,2023-02,Thursday
+1386,Aarav Sharma,Kids Story Book,Books,2.0,232.97,2023-07-11,Central,Debit Card,465.94,2023-07,Tuesday
+2028,Kabir Nair,Bluetooth Speaker,Electronics,2.0,3049.93,2023-08-17,South,Cash,6099.86,2023-08,Thursday
+1304,Ling Brown,Baseball Cap,Clothing,1.0,753.93,2023-06-01,South,Cash,753.93,2023-06,Thursday
+1488,Ishaan Nair,Notebook Set,Books,1.0,173.39,2023-05-13,East,Net Banking,173.39,2023-05,Saturday
+2050,Aditya Gupta,Resistance Bands,Sports,1.0,2444.26,2023-02-19,Central,Cash,2444.26,2023-02,Sunday
+2139,Mohammed Johnson,Laptop Stand,Electronics,1.0,2009.41,2023-01-29,North,Credit Card,2009.41,2023-01,Sunday
+1941,James Patel,Non-stick Pan,Home & Kitchen,3.0,2879.99,2023-11-07,West,Debit Card,8639.97,2023-11,Tuesday
+1068,Sara Nair,Running Shoes,Clothing,1.0,2374.4,2023-12-26,East,Net Banking,2374.4,2023-12,Tuesday
+1020,Aditya Brown,USB-C Cable,Electronics,1.0,2552.7,2023-12-09,South,UPI,2552.7,2023-12,Saturday
+1878,Emma Johnson,Football,Sports,2.0,2933.65,2023-07-29,West,Cash,5867.3,2023-07,Saturday
+1325,Aditya Khan,Coffee Maker,Home & Kitchen,1.0,3241.02,2023-02-25,South,Net Banking,3241.02,2023-02,Saturday
+1261,Sara Johnson,Cutlery Set,Home & Kitchen,1.0,2538.87,2023-03-27,South,Credit Card,2538.87,2023-03,Monday
+1131,James Nair,Cutlery Set,Home & Kitchen,5.0,2614.03,2023-03-15,North,Debit Card,13070.15,2023-03,Wednesday
+1410,Ling Johnson,Resistance Bands,Sports,1.0,1620.355,2023-02-28,East,Cash,1620.36,2023-02,Tuesday
+1401,Kabir Reddy,Cotton T-Shirt,Clothing,1.0,1855.92,2023-02-23,North,Debit Card,1855.92,2023-02,Thursday
+1055,Aarav Wang,Notebook Set,Books,1.0,321.6,2023-09-02,Central,Cash,321.6,2023-09,Saturday
+1964,Sophia Verma,Resistance Bands,Sports,1.0,1867.56,2023-10-03,Central,Net Banking,1867.56,2023-10,Tuesday
+1932,Emma Brown,Wireless Mouse,Electronics,1.0,1032.29,2023-08-09,West,UPI,1032.29,2023-08,Wednesday
+2142,Sophia Lee,Non-stick Pan,Home & Kitchen,1.0,2100.98,2023-02-04,South,Credit Card,2100.98,2023-02,Saturday
+1151,Ling Reddy,Cook Book,Books,1.0,188.76,2023-10-14,North,UPI,188.76,2023-10,Saturday
+2018,Ling Khan,Wool Sweater,Clothing,1.0,1638.76,2023-02-06,North,Debit Card,1638.76,2023-02,Monday
+1673,Ananya Patel,Cutlery Set,Home & Kitchen,1.0,3073.74,2023-10-15,Unknown,Credit Card,3073.74,2023-10,Sunday
+2037,Mohammed Reddy,Cook Book,Books,3.0,303.66,2023-07-30,East,Cash,910.98,2023-07,Sunday
+2027,Riya Nair,LED Lamp,Home & Kitchen,4.0,996.79,2023-09-13,North,UPI,3987.16,2023-09,Wednesday
+1107,Sara Patel,Baseball Cap,Clothing,1.0,1734.31,2023-11-18,South,Credit Card,1734.31,2023-11,Saturday
+1744,Sara Johnson,Resistance Bands,Sports,2.0,1620.355,2023-11-04,North,Debit Card,3240.71,2023-11,Saturday
+2126,Mohammed Gupta,Water Bottle,Sports,3.0,508.11,2023-06-19,East,UPI,1524.33,2023-06,Monday
+1444,Kabir Lee,LED Lamp,Home & Kitchen,1.0,2749.89,2023-06-11,Central,UPI,2749.89,2023-06,Sunday
+1750,James Das,Wool Sweater,Clothing,3.0,1135.53,2023-05-21,West,Credit Card,3406.59,2023-05,Sunday
+1756,Fatima Patel,Wireless Mouse,Electronics,2.0,2938.96,2023-02-15,Central,Debit Card,5877.92,2023-02,Wednesday
+1025,Ananya Smith,Fiction Novel,Books,1.0,560.03,2023-05-16,North,Cash,560.03,2023-05,Tuesday
+1812,Ishaan Sharma,Football,Sports,4.0,1796.32,2023-06-02,North,Cash,7185.28,2023-06,Friday
+1662,Noah Gupta,Baseball Cap,Clothing,1.0,2217.92,2023-03-11,West,UPI,2217.92,2023-03,Saturday
+1839,Diya Lee,Storage Jars,Home & Kitchen,1.0,691.31,2023-12-16,Central,UPI,691.31,2023-12,Saturday
+1534,Noah Johnson,Cutlery Set,Home & Kitchen,1.0,1259.6,2023-01-18,West,Credit Card,1259.6,2023-01,Wednesday
+2100,Olivia Smith,Cutlery Set,Home & Kitchen,1.0,2367.93,2023-06-10,North,Net Banking,2367.93,2023-06,Saturday
+1083,Liam Iyer,Self-Help Guide,Books,2.0,217.72,2023-09-10,Central,Net Banking,435.44,2023-09,Sunday
+1256,Aditya Chen,Water Bottle,Sports,1.0,1936.89,2023-05-07,Central,UPI,1936.89,2023-05,Sunday
+1935,Aditya Smith,USB-C Cable,Electronics,2.0,895.19,2023-02-02,North,UPI,1790.38,2023-02,Thursday
+1870,Emma Das,Resistance Bands,Sports,1.0,1261.34,2023-03-15,North,Credit Card,1261.34,2023-03,Wednesday
+2125,Diya Reddy,Self-Help Guide,Books,1.0,599.23,2023-07-13,North,Debit Card,599.23,2023-07,Thursday
+1893,Riya Smith,Denim Jacket,Clothing,3.0,1750.58,2023-11-06,West,Debit Card,5251.74,2023-11,Monday
+1874,Sophia Brown,Football,Sports,1.0,302.78,2023-06-14,West,Debit Card,302.78,2023-06,Wednesday
+1614,Unknown,Cook Book,Books,1.0,448.2,2023-08-02,West,UPI,448.2,2023-08,Wednesday
+1380,Ananya Iyer,Baseball Cap,Clothing,2.0,2266.56,2023-03-07,North,Cash,4533.12,2023-03,Tuesday
+1077,Meera Verma,Non-stick Pan,Home & Kitchen,1.0,921.62,2023-11-07,Central,Cash,921.62,2023-11,Tuesday
+1389,Ananya Das,Coffee Maker,Home & Kitchen,2.0,1225.31,2023-04-27,West,Credit Card,2450.62,2023-04,Thursday
+1937,Sophia Johnson,Football,Sports,1.0,1641.09,2023-08-08,East,Net Banking,1641.09,2023-08,Tuesday
+1407,Noah Chen,Laptop Stand,Electronics,3.0,873.99,2023-02-15,Central,Cash,2621.97,2023-02,Wednesday
+1292,James Lee,Kids Story Book,Books,1.0,519.46,2023-08-23,North,Credit Card,519.46,2023-08,Wednesday
+1795,Noah Gupta,LED Lamp,Home & Kitchen,2.0,1941.52,2023-08-02,East,Cash,3883.04,2023-08,Wednesday
+1716,Aarav Patel,Coffee Maker,Home & Kitchen,1.0,2037.06,2023-07-22,West,Credit Card,2037.06,2023-07,Saturday
+1111,Noah Nair,Yoga Mat,Sports,1.0,2058.44,2023-07-15,East,Net Banking,2058.44,2023-07,Saturday
+1625,Sara Chen,Coffee Maker,Home & Kitchen,2.0,3715.05,2023-04-03,South,Cash,7430.1,2023-04,Monday
+1751,Emma Das,Self-Help Guide,Books,1.0,539.31,2023-12-24,North,Debit Card,539.31,2023-12,Sunday
+2074,Emma Sharma,Cotton T-Shirt,Clothing,1.0,1310.38,2023-03-20,North,Credit Card,1310.38,2023-03,Monday
+1247,Emma Chen,Webcam,Electronics,1.0,1332.14,2023-02-19,South,Credit Card,1332.14,2023-02,Sunday
+1146,Noah Lee,Water Bottle,Sports,1.0,333.88,2023-08-19,Central,Credit Card,333.88,2023-08,Saturday
+1129,Sophia Khan,Denim Jacket,Clothing,2.0,2359.54,2023-10-12,North,UPI,4719.08,2023-10,Thursday
+2116,Meera Das,USB-C Cable,Electronics,1.0,2729.58,2023-07-20,Central,Cash,2729.58,2023-07,Thursday
+1623,Aarav Iyer,LED Lamp,Home & Kitchen,2.0,3139.69,2023-03-06,West,Credit Card,6279.38,2023-03,Monday
+2198,Noah Chen,Dumbbell Set,Sports,1.0,2697.77,2023-10-19,West,Debit Card,2697.77,2023-10,Thursday
+1461,Ling Lee,Storage Jars,Home & Kitchen,1.0,3526.48,2023-07-13,North,Debit Card,3526.48,2023-07,Thursday
+1487,Ishaan Reddy,Wool Sweater,Clothing,1.0,1911.66,2023-06-11,Central,Cash,1911.66,2023-06,Sunday
+2155,Olivia Lee,Laptop Stand,Electronics,1.0,841.52,2023-06-14,North,Debit Card,841.52,2023-06,Wednesday
+1091,Sophia Das,Bluetooth Speaker,Electronics,1.0,1523.2,2023-12-28,East,Net Banking,1523.2,2023-12,Thursday
+1493,Liam Verma,Yoga Mat,Sports,1.0,2252.52,2023-04-21,South,Credit Card,2252.52,2023-04,Friday
+1171,Olivia Smith,Non-stick Pan,Home & Kitchen,1.0,2169.82,2023-07-17,West,Cash,2169.82,2023-07,Monday
+1057,Liam Reddy,Self-Help Guide,Books,2.0,847.27,2023-03-07,South,Cash,1694.54,2023-03,Tuesday
+1405,Aarav Patel,Yoga Mat,Sports,1.0,1489.81,2023-08-29,South,Net Banking,1489.81,2023-08,Tuesday
+1600,Ling Nair,Water Bottle,Sports,10.0,2311.54,2023-04-12,East,UPI,23115.4,2023-04,Wednesday
+2016,Noah Khan,Cook Book,Books,1.0,298.57,2023-03-17,West,UPI,298.57,2023-03,Friday
+1098,James Wang,Fiction Novel,Books,1.0,404.27,2023-06-12,Central,Cash,404.27,2023-06,Monday
+1827,Fatima Gupta,Wireless Mouse,Electronics,1.0,1289.34,2023-04-16,North,UPI,1289.34,2023-04,Sunday
+1480,Liam Patel,Non-stick Pan,Home & Kitchen,2.0,998.62,2023-06-11,South,Debit Card,1997.24,2023-06,Sunday
+1324,Sara Wang,Running Shoes,Clothing,2.0,1605.9,2023-12-25,East,Cash,3211.8,2023-12,Monday
+1099,Meera Patel,Yoga Mat,Sports,3.0,2246.38,2023-02-16,East,Debit Card,6739.14,2023-02,Thursday
+1425,Mohammed Verma,Denim Jacket,Clothing,1.0,1404.83,2023-08-08,West,Credit Card,1404.83,2023-08,Tuesday
+1297,Liam Patel,Cotton T-Shirt,Clothing,1.0,700.14,2023-08-08,East,Debit Card,700.14,2023-08,Tuesday
+1738,Kabir Khan,Storage Jars,Home & Kitchen,2.0,1577.32,2023-08-11,South,UPI,3154.64,2023-08,Friday
+2147,Emma Gupta,Kids Story Book,Books,1.0,305.24,2023-08-23,North,UPI,305.24,2023-08,Wednesday
+1903,Ananya Verma,Water Bottle,Sports,2.0,1211.68,2023-03-20,North,UPI,2423.36,2023-03,Monday
+1602,Ling Iyer,Denim Jacket,Clothing,1.0,348.67,2023-04-04,East,Cash,348.67,2023-04,Tuesday
+2000,Ishaan Iyer,USB-C Cable,Electronics,1.0,671.16,2023-06-29,East,UPI,671.16,2023-06,Thursday
+1396,Aarav Sharma,Coffee Maker,Home & Kitchen,1.0,952.07,2023-10-21,North,Credit Card,952.07,2023-10,Saturday
+1427,Sophia Chen,Football,Sports,3.0,827.24,2023-07-03,Central,Net Banking,2481.72,2023-07,Monday
+2101,Ishaan Wang,Kids Story Book,Books,1.0,882.6,2023-02-22,East,Net Banking,882.6,2023-02,Wednesday
+2039,Fatima Reddy,Kids Story Book,Books,1.0,329.1,2023-09-14,East,Net Banking,329.1,2023-09,Thursday
+1253,Meera Lee,Baseball Cap,Clothing,1.0,1806.41,2023-06-19,West,Net Banking,1806.41,2023-06,Monday
+1239,Ling Reddy,Cook Book,Books,1.0,205.35,2023-05-03,South,Cash,205.35,2023-05,Wednesday
+1845,Ling Khan,Storage Jars,Home & Kitchen,2.0,2582.51,2023-11-23,North,Debit Card,5165.02,2023-11,Thursday
+1846,Fatima Khan,Cook Book,Books,1.0,281.13,2023-10-17,Central,Net Banking,281.13,2023-10,Tuesday
+1555,Kabir Nair,Coffee Maker,Home & Kitchen,1.0,2905.67,2023-02-14,West,Debit Card,2905.67,2023-02,Tuesday
+1546,Ananya Nair,USB-C Cable,Electronics,2.0,3328.2,2023-11-16,Central,Cash,6656.4,2023-11,Thursday
+1251,Wei Johnson,Denim Jacket,Clothing,1.0,1835.96,2023-02-08,East,Credit Card,1835.96,2023-02,Wednesday
+1740,Aarav Khan,Denim Jacket,Clothing,1.0,2055.19,2023-09-06,East,Cash,2055.19,2023-09,Wednesday
+1965,Ling Reddy,Bluetooth Speaker,Electronics,1.0,2426.98,2023-10-12,South,Credit Card,2426.98,2023-10,Thursday
+1199,Sophia Brown,Running Shoes,Clothing,1.0,2188.51,2023-11-07,West,Debit Card,2188.51,2023-11,Tuesday
+1898,Emma Chen,Wool Sweater,Clothing,1.0,391.68,2023-07-08,Central,Credit Card,391.68,2023-07,Saturday
+2070,Ling Das,Self-Help Guide,Books,3.0,290.56,2023-02-23,North,Credit Card,871.68,2023-02,Thursday
+1990,Sophia Smith,Coffee Maker,Home & Kitchen,2.0,3541.83,2023-07-06,East,UPI,7083.66,2023-07,Thursday
+2041,Aditya Wang,Resistance Bands,Sports,1.0,324.71,2023-06-10,West,Cash,324.71,2023-06,Saturday
+1067,Wei Lee,Wool Sweater,Clothing,1.0,563.7,2023-01-15,Unknown,UPI,563.7,2023-01,Sunday
+2167,Aarav Das,Coffee Maker,Home & Kitchen,2.0,2573.66,2023-04-11,North,Credit Card,5147.32,2023-04,Tuesday
+1934,Diya Iyer,Bluetooth Speaker,Electronics,1.0,629.52,2023-11-17,West,Cash,629.52,2023-11,Friday
+1360,Emma Verma,Cotton T-Shirt,Clothing,2.0,573.45,2023-11-18,West,Debit Card,1146.9,2023-11,Saturday
+1096,Vivaan Gupta,Wool Sweater,Clothing,3.0,504.83,2023-06-19,Central,Net Banking,1514.49,2023-06,Monday
+2189,Vivaan Lee,LED Lamp,Home & Kitchen,2.0,1502.73,2023-02-25,South,UPI,3005.46,2023-02,Saturday
+1522,Ling Das,Self-Help Guide,Books,2.0,389.06,2023-02-05,Central,Debit Card,778.12,2023-02,Sunday
+1975,Liam Khan,Wireless Mouse,Electronics,1.0,2009.41,2023-03-05,West,Credit Card,2009.41,2023-03,Sunday
+1666,Meera Nair,Cook Book,Books,1.0,566.52,2023-04-24,West,Net Banking,566.52,2023-04,Monday
+1362,Mohammed Chen,Resistance Bands,Sports,2.0,432.86,2023-08-01,West,Credit Card,865.72,2023-08,Tuesday
+1485,Sophia Das,Football,Sports,1.0,1807.61,2023-09-09,Central,UPI,1807.61,2023-09,Saturday
+1312,Olivia Gupta,Coffee Maker,Home & Kitchen,1.0,1733.7,2023-01-16,East,Credit Card,1733.7,2023-01,Monday
+1843,Aarav Verma,Cook Book,Books,3.0,249.39,2023-04-09,West,UPI,748.17,2023-04,Sunday
+1414,Kabir Johnson,Resistance Bands,Sports,1.0,1202.45,2023-01-25,North,Net Banking,1202.45,2023-01,Wednesday
+1032,Mohammed Sharma,LED Lamp,Home & Kitchen,1.0,3383.46,2023-12-06,Central,UPI,3383.46,2023-12,Wednesday
+1766,Olivia Das,Self-Help Guide,Books,2.0,383.48,2023-05-15,West,UPI,766.96,2023-05,Monday
+1459,Aarav Das,Resistance Bands,Sports,4.0,1059.78,2023-04-21,East,Credit Card,4239.12,2023-04,Friday
+1340,Meera Lee,Wireless Mouse,Electronics,3.0,3408.41,2023-09-27,South,Credit Card,10225.23,2023-09,Wednesday
+1287,Diya Chen,Bluetooth Speaker,Electronics,2.0,1689.63,2023-12-30,Central,Unknown,3379.26,2023-12,Saturday
+1950,Ling Lee,Baseball Cap,Clothing,2.0,1081.85,2023-07-22,South,Credit Card,2163.7,2023-07,Saturday
+1140,Ishaan Khan,Laptop Stand,Electronics,2.0,2605.9,2023-07-25,West,Net Banking,5211.8,2023-07,Tuesday
+1849,Ishaan Patel,Self-Help Guide,Books,1.0,169.36,2023-09-11,Central,Cash,169.36,2023-09,Monday
+2026,Ananya Smith,Dumbbell Set,Sports,1.0,1510.33,2023-11-04,Central,UPI,1510.33,2023-11,Saturday
+1901,Noah Johnson,Running Shoes,Clothing,2.0,2404.3,2023-02-12,West,Credit Card,4808.6,2023-02,Sunday
+1732,Sophia Brown,Running Shoes,Clothing,2.0,534.5,2023-11-11,East,Debit Card,1069.0,2023-11,Saturday
+1265,Meera Nair,Notebook Set,Books,3.0,192.28,2023-07-21,West,UPI,576.84,2023-07,Friday
+1275,Ananya Patel,Cook Book,Books,2.0,540.23,2023-01-15,West,Cash,1080.46,2023-01,Sunday
+2095,Diya Verma,Baseball Cap,Clothing,2.0,2034.58,2023-11-08,Central,UPI,4069.16,2023-11,Wednesday
+1445,Emma Iyer,Denim Jacket,Clothing,1.0,518.77,2023-12-14,East,Debit Card,518.77,2023-12,Thursday
+1040,Meera Khan,Cutlery Set,Home & Kitchen,1.0,1690.48,2023-07-24,North,Debit Card,1690.48,2023-07,Monday
+1022,Vivaan Patel,Kids Story Book,Books,1.0,175.79,2023-07-26,North,Credit Card,175.79,2023-07,Wednesday
+1706,Diya Gupta,Coffee Maker,Home & Kitchen,1.0,1141.03,2023-12-20,North,Cash,1141.03,2023-12,Wednesday
+1518,Ling Gupta,Water Bottle,Sports,2.0,461.62,2023-05-08,East,Credit Card,923.24,2023-05,Monday
+1355,Ananya Nair,Water Bottle,Sports,2.0,950.26,2023-04-06,West,UPI,1900.52,2023-04,Thursday
+1298,Kabir Lee,Fiction Novel,Books,1.0,822.59,2023-12-15,South,Net Banking,822.59,2023-12,Friday
+2077,Wei Chen,Yoga Mat,Sports,2.0,2208.04,2023-10-11,West,UPI,4416.08,2023-10,Wednesday
+1840,James Nair,Coffee Maker,Home & Kitchen,2.0,1024.69,2023-11-03,South,Cash,2049.38,2023-11,Friday
+1925,Riya Patel,Kids Story Book,Books,2.0,815.19,2023-07-29,Central,Credit Card,1630.38,2023-07,Saturday
+1123,Aditya Das,Kids Story Book,Books,3.0,161.59,2023-11-08,North,UPI,484.77,2023-11,Wednesday
+2092,Mohammed Nair,LED Lamp,Home & Kitchen,1.0,519.48,2023-02-28,West,Credit Card,519.48,2023-02,Tuesday
+1418,Olivia Das,Football,Sports,1.0,1620.51,2023-09-15,South,Debit Card,1620.51,2023-09,Friday
+1967,Olivia Brown,Football,Sports,2.0,1791.82,2023-12-03,South,Cash,3583.64,2023-12,Sunday
+1158,Fatima Das,Self-Help Guide,Books,2.0,776.99,2023-03-05,North,Net Banking,1553.98,2023-03,Sunday
+2064,Kabir Nair,Resistance Bands,Sports,1.0,1995.35,2023-03-19,East,Credit Card,1995.35,2023-03,Sunday
+1190,Noah Khan,Kids Story Book,Books,1.0,760.85,2023-03-15,East,Net Banking,760.85,2023-03,Wednesday
+1590,James Reddy,USB-C Cable,Electronics,1.0,2783.08,2023-07-31,North,UPI,2783.08,2023-07,Monday
+1761,Wei Patel,Running Shoes,Clothing,4.0,432.59,2023-01-06,West,Credit Card,1730.36,2023-01,Friday
+2063,Emma Nair,Dumbbell Set,Sports,2.0,2956.3,2023-01-06,Central,Cash,5912.6,2023-01,Friday
+1243,Unknown,Kids Story Book,Books,3.0,588.24,2023-03-13,East,Debit Card,1764.72,2023-03,Monday
+1885,Noah Johnson,Cook Book,Books,1.0,431.92,2023-07-11,Central,Credit Card,431.92,2023-07,Tuesday
+1621,Wei Reddy,Water Bottle,Sports,2.0,4100.99,2023-06-30,East,Cash,8201.98,2023-06,Friday
+1651,Aditya Verma,Running Shoes,Clothing,4.0,369.49,2023-08-01,East,Debit Card,1477.96,2023-08,Tuesday
+1504,Emma Brown,Notebook Set,Books,2.0,669.21,2023-06-27,Central,UPI,1338.42,2023-06,Tuesday
+1923,Ling Johnson,Notebook Set,Books,1.0,857.31,2023-03-11,Unknown,UPI,857.31,2023-03,Saturday
+1160,Meera Smith,Football,Sports,1.0,680.2,2023-04-25,North,UPI,680.2,2023-04,Tuesday
+1883,Sophia Patel,Yoga Mat,Sports,1.0,662.63,2023-07-23,Central,Debit Card,662.63,2023-07,Sunday
+1538,Ananya Johnson,Storage Jars,Home & Kitchen,1.0,3955.8,2023-11-01,Central,Credit Card,3955.8,2023-11,Wednesday
+1241,Emma Sharma,Cutlery Set,Home & Kitchen,2.0,2665.84,2023-03-16,Central,Debit Card,5331.68,2023-03,Thursday
+1014,Ananya Brown,LED Lamp,Home & Kitchen,1.0,1118.83,2023-11-24,North,UPI,1118.83,2023-11,Friday
+1476,Fatima Iyer,Wireless Mouse,Electronics,2.0,2301.55,2023-06-28,Central,Net Banking,4603.1,2023-06,Wednesday
+2159,Diya Wang,Water Bottle,Sports,1.0,1005.51,2023-08-31,South,Net Banking,1005.51,2023-08,Thursday
+1929,Liam Reddy,Laptop Stand,Electronics,1.0,2765.13,2023-09-23,Central,Credit Card,2765.13,2023-09,Saturday
+1796,Riya Reddy,Dumbbell Set,Sports,5.0,2154.2,2023-03-08,North,Cash,10771.0,2023-03,Wednesday
+1356,Sara Lee,Coffee Maker,Home & Kitchen,1.0,3136.82,2023-12-23,North,Debit Card,3136.82,2023-12,Saturday
+2059,Wei Sharma,Running Shoes,Clothing,2.0,1393.95,2023-02-01,Central,Cash,2787.9,2023-02,Wednesday
+1335,Fatima Chen,Storage Jars,Home & Kitchen,1.0,1071.64,2023-10-17,Unknown,UPI,1071.64,2023-10,Tuesday
+1689,Diya Sharma,Running Shoes,Clothing,1.0,1279.67,2023-08-17,North,Net Banking,1279.67,2023-08,Thursday
+1185,Mohammed Gupta,Wireless Mouse,Electronics,1.0,2009.41,2023-03-24,East,Debit Card,2009.41,2023-03,Friday
+1824,Aditya Chen,Running Shoes,Clothing,2.0,580.97,2023-07-29,Central,Net Banking,1161.94,2023-07,Saturday
+2143,Ishaan Johnson,Denim Jacket,Clothing,1.0,608.05,2023-08-16,North,Net Banking,608.05,2023-08,Wednesday
+2002,Olivia Nair,Storage Jars,Home & Kitchen,1.0,3662.52,2023-02-19,East,Credit Card,3662.52,2023-02,Sunday
+1188,Sara Patel,Webcam,Electronics,1.0,713.57,2023-08-02,South,Net Banking,713.57,2023-08,Wednesday
+1942,Liam Iyer,Fiction Novel,Books,2.0,627.22,2023-12-31,Central,Debit Card,1254.44,2023-12,Sunday
+1285,Ishaan Iyer,Webcam,Electronics,1.0,3212.48,2023-10-05,Central,UPI,3212.48,2023-10,Thursday
+1900,James Reddy,Kids Story Book,Books,1.0,203.44,2023-07-23,West,Debit Card,203.44,2023-07,Sunday
+1166,Mohammed Brown,Resistance Bands,Sports,2.0,1228.92,2023-08-29,North,Cash,2457.84,2023-08,Tuesday
+1348,Olivia Brown,Kids Story Book,Books,2.0,236.13,2023-09-03,West,Credit Card,472.26,2023-09,Sunday
+1299,Kabir Johnson,Laptop Stand,Electronics,1.0,2502.67,2023-07-16,North,Debit Card,2502.67,2023-07,Sunday
+1536,Wei Gupta,Resistance Bands,Sports,1.0,1064.85,2023-08-24,North,Credit Card,1064.85,2023-08,Thursday
+1230,Ling Sharma,Wireless Mouse,Electronics,1.0,668.91,2023-12-11,West,Net Banking,668.91,2023-12,Monday
+1042,Olivia Reddy,Water Bottle,Sports,1.0,1159.97,2023-11-07,East,Cash,1159.97,2023-11,Tuesday
+1869,Ishaan Nair,Wool Sweater,Clothing,1.0,1289.53,2023-08-22,South,UPI,1289.53,2023-08,Tuesday
+1749,Noah Smith,Dumbbell Set,Sports,1.0,1953.6,2023-05-11,North,Cash,1953.6,2023-05,Thursday
+2177,Riya Wang,Water Bottle,Sports,3.0,1934.58,2023-05-23,North,Credit Card,5803.74,2023-05,Tuesday
+1447,Aditya Reddy,Running Shoes,Clothing,1.0,2126.48,2023-09-17,North,Credit Card,2126.48,2023-09,Sunday
+1350,Aditya Nair,Webcam,Electronics,1.0,963.09,2023-09-05,Central,Net Banking,963.09,2023-09,Tuesday
+1046,Fatima Wang,Storage Jars,Home & Kitchen,2.0,830.54,2023-05-27,North,UPI,1661.08,2023-05,Saturday
+2182,Kabir Das,Cook Book,Books,1.0,371.28,2023-12-16,North,UPI,371.28,2023-12,Saturday
+1109,Sara Wang,Resistance Bands,Sports,2.0,1144.85,2023-09-04,South,UPI,2289.7,2023-09,Monday
+1030,Riya Johnson,Cook Book,Books,1.0,183.92,2023-01-05,East,Unknown,183.92,2023-01,Thursday
+1182,Olivia Johnson,Resistance Bands,Sports,1.0,1620.355,2023-11-10,Central,Debit Card,1620.36,2023-11,Friday
+1622,Riya Reddy,Webcam,Electronics,2.0,2812.77,2023-02-01,Unknown,UPI,5625.54,2023-02,Wednesday
+1635,Riya Johnson,Running Shoes,Clothing,1.0,1620.05,2023-05-22,North,Cash,1620.05,2023-05,Monday
+1105,Wei Nair,Wool Sweater,Clothing,1.0,311.14,2023-12-25,Central,UPI,311.14,2023-12,Monday
+1061,Kabir Johnson,Denim Jacket,Clothing,3.0,2076.37,2023-04-22,North,Net Banking,6229.11,2023-04,Saturday
+1659,Ananya Gupta,Webcam,Electronics,2.0,2079.21,2023-09-21,North,Cash,4158.42,2023-09,Thursday
+2108,James Khan,Fiction Novel,Books,1.0,695.0,2023-09-21,Central,Net Banking,695.0,2023-09,Thursday
+1491,Emma Wang,Baseball Cap,Clothing,2.0,1393.95,2023-03-16,West,Debit Card,2787.9,2023-03,Thursday
+1316,Meera Nair,Water Bottle,Sports,3.0,2211.71,2023-06-13,South,Unknown,6635.13,2023-06,Tuesday
+1382,Wei Lee,Fiction Novel,Books,2.0,336.37,2023-08-30,Central,Credit Card,672.74,2023-08,Wednesday
+1423,Fatima Sharma,Self-Help Guide,Books,1.0,261.5,2023-04-14,North,UPI,261.5,2023-04,Friday
+2186,Unknown,Football,Sports,2.0,2043.8,2023-05-22,South,UPI,4087.6,2023-05,Monday
+1446,Sophia Brown,Cutlery Set,Home & Kitchen,3.0,3000.16,2023-11-27,North,Debit Card,9000.48,2023-11,Monday
+1664,James Khan,Cook Book,Books,2.0,286.59,2023-03-22,East,Unknown,573.18,2023-03,Wednesday
+2025,Ishaan Iyer,Bluetooth Speaker,Electronics,1.0,2130.61,2023-11-12,East,Credit Card,2130.61,2023-11,Sunday
+1780,Sophia Iyer,Fiction Novel,Books,3.0,779.9,2023-12-17,South,Debit Card,2339.7,2023-12,Sunday
+1627,Wei Reddy,Denim Jacket,Clothing,1.0,558.08,2023-11-25,East,Credit Card,558.08,2023-11,Saturday
+2113,Sara Nair,Laptop Stand,Electronics,1.0,537.21,2023-11-29,North,Credit Card,537.21,2023-11,Wednesday
+2102,Emma Khan,USB-C Cable,Electronics,1.0,1767.65,2023-04-08,South,Credit Card,1767.65,2023-04,Saturday
+1269,Ishaan Chen,Yoga Mat,Sports,1.0,2586.53,2023-03-27,South,UPI,2586.53,2023-03,Monday
+1930,Mohammed Brown,Cutlery Set,Home & Kitchen,2.0,3431.19,2023-06-07,West,Net Banking,6862.38,2023-06,Wednesday
+2148,Ling Johnson,Non-stick Pan,Home & Kitchen,1.0,419.82,2023-03-13,North,UPI,419.82,2023-03,Monday
+2120,Aditya Gupta,Running Shoes,Clothing,1.0,473.73,2023-06-30,North,Net Banking,473.73,2023-06,Friday
+1012,Ling Verma,Wool Sweater,Clothing,1.0,942.72,2023-11-02,West,Cash,942.72,2023-11,Thursday
+1115,Ling Smith,Laptop Stand,Electronics,2.0,3176.14,2023-12-20,East,Credit Card,6352.28,2023-12,Wednesday
+1844,Diya Verma,Cutlery Set,Home & Kitchen,1.0,3721.93,2023-04-24,Central,UPI,3721.93,2023-04,Monday
+1353,Emma Verma,Non-stick Pan,Home & Kitchen,5.0,628.15,2023-09-03,East,Net Banking,3140.75,2023-09,Sunday
+1774,Diya Wang,Dumbbell Set,Sports,1.0,2466.48,2023-06-15,North,UPI,2466.48,2023-06,Thursday
+1691,Liam Nair,Self-Help Guide,Books,1.0,272.64,2023-06-26,North,UPI,272.64,2023-06,Monday
+1791,Emma Smith,Wireless Mouse,Electronics,1.0,1195.84,2023-11-02,West,Net Banking,1195.84,2023-11,Thursday
+1532,Liam Brown,Baseball Cap,Clothing,1.0,1990.2,2023-10-01,East,Debit Card,1990.2,2023-10,Sunday
+1868,Fatima Khan,Running Shoes,Clothing,3.0,587.56,2023-01-12,South,Debit Card,1762.68,2023-01,Thursday
+1170,Sara Sharma,Water Bottle,Sports,1.0,1553.98,2023-07-02,South,UPI,1553.98,2023-07,Sunday
+1240,Riya Iyer,Football,Sports,1.0,2915.58,2023-09-12,East,Unknown,2915.58,2023-09,Tuesday
+2185,Olivia Johnson,Fiction Novel,Books,2.0,407.38,2023-07-29,Central,Debit Card,814.76,2023-07,Saturday
+1074,Sara Sharma,Dumbbell Set,Sports,1.0,1926.3,2023-05-30,North,Net Banking,1926.3,2023-05,Tuesday
+2087,Aditya Reddy,Denim Jacket,Clothing,3.0,684.74,2023-05-21,South,UPI,2054.22,2023-05,Sunday
+1762,Emma Reddy,Wool Sweater,Clothing,1.0,1073.57,2023-02-07,Central,UPI,1073.57,2023-02,Tuesday
+1741,Ananya Iyer,Bluetooth Speaker,Electronics,1.0,2953.5,2023-05-13,South,Credit Card,2953.5,2023-05,Saturday
+1742,Sophia Chen,Cotton T-Shirt,Clothing,1.0,1497.88,2023-02-12,Unknown,Credit Card,1497.88,2023-02,Sunday
+1048,Diya Gupta,Coffee Maker,Home & Kitchen,1.0,3175.48,2023-05-06,North,Credit Card,3175.48,2023-05,Saturday
+1763,Olivia Lee,Wool Sweater,Clothing,1.0,1368.92,2023-01-03,Central,Credit Card,1368.92,2023-01,Tuesday
+1592,Sophia Das,Yoga Mat,Sports,4.0,1989.71,2023-04-08,Central,Debit Card,7958.84,2023-04,Saturday
+1808,Unknown,Dumbbell Set,Sports,2.0,1165.76,2023-11-16,South,Net Banking,2331.52,2023-11,Thursday
+2084,Ananya Patel,Non-stick Pan,Home & Kitchen,1.0,2682.91,2023-01-17,Central,Net Banking,2682.91,2023-01,Tuesday
+1506,Aarav Reddy,Notebook Set,Books,5.0,315.91,2023-06-03,West,Cash,1579.55,2023-06,Saturday
+2045,Riya Sharma,Non-stick Pan,Home & Kitchen,1.0,3359.57,2023-07-23,East,UPI,3359.57,2023-07,Sunday
+1653,Aarav Gupta,Wireless Mouse,Electronics,3.0,2627.18,2023-05-26,North,Net Banking,7881.54,2023-05,Friday
+1193,Ananya Johnson,Coffee Maker,Home & Kitchen,2.0,3046.26,2023-09-13,Central,Cash,6092.52,2023-09,Wednesday
+1245,Diya Brown,Cotton T-Shirt,Clothing,3.0,2390.91,2023-01-31,West,UPI,7172.73,2023-01,Tuesday
+1060,Olivia Khan,Yoga Mat,Sports,1.0,2704.54,2023-01-16,North,Credit Card,2704.54,2023-01,Monday
+1177,Wei Gupta,Fiction Novel,Books,1.0,644.02,2023-07-23,Central,UPI,644.02,2023-07,Sunday
+1450,Mohammed Gupta,Dumbbell Set,Sports,1.0,285.76,2023-04-02,West,Debit Card,285.76,2023-04,Sunday
+1056,Fatima Chen,Notebook Set,Books,1.0,367.31,2023-09-07,Central,Debit Card,367.31,2023-09,Thursday
+1920,Diya Iyer,Water Bottle,Sports,1.0,2802.23,2023-07-04,West,Credit Card,2802.23,2023-07,Tuesday
+2093,Aditya Khan,Coffee Maker,Home & Kitchen,4.0,2751.39,2023-03-16,East,UPI,11005.56,2023-03,Thursday
+2193,Mohammed Reddy,Running Shoes,Clothing,1.0,1001.51,2023-12-31,Central,Net Banking,1001.51,2023-12,Sunday
+2060,Diya Wang,Cotton T-Shirt,Clothing,3.0,483.62,2023-05-19,North,Cash,1450.86,2023-05,Friday
+1642,James Patel,Football,Sports,1.0,1789.03,2023-01-29,East,Cash,1789.03,2023-01,Sunday
